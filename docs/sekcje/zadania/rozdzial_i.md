@@ -64,9 +64,5 @@ Po zebraniu wszystkich ksiąg i oddaniu ich Nieznajomemu (Eremicie), ten znika, 
 #### Joint dla Gortha
 Gorth potrzebuje czegoś mocnego do palenia. Udajemy się więc na bagna, gdzie u Fortuno kupujemy bardzo mocny joint. Następnie wracamy do Gortha i wręczamy mu zakupiony towar, kończąc zadanie.
 
-#### Monopol na bimber
-Zadanie dostępne po dołączeniu do obozu przed kopalnią.
-Siekacz prosi nas, abyśmy zrobili porządek z bimbrownikami z Nowego Obozu. Udajemy się do jaskini nad rzeką, gdzie przebywa Jacko wraz ze swoimi kompanami. Zabijamy całą grupę, a następnie wracamy do Siekacza, aby zdać raport i zakończyć zadanie.
-
 #### Dwanaście piw dla Komara
 Komar prosi nas o dostarczenie 12 piw. Na wykonanie zadania mamy 2 dni – jeśli nie zdążymy na czas, Komar nas pobije. Po zdobyciu i oddaniu mu 12 sztuk zadanie zostaje zakończone.
