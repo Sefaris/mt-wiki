@@ -10,6 +10,12 @@ Opcjonalnie możemy również pokazać mu recepturę Cor Kaloma, jeśli ją posi
 #### Wino dla Halldora
 Halldor prosi nas o przyniesienie mu wina. Po dostarczeniu wina zadanie zostaje ukończone.
 
+#### Pierścień Klina
+Rączka chce pierścień, który posiada Klin. Aby Klin nie przyłapał nas na kradzieży, potrzebujemy co najmniej 90 zręczności. Po zdobyciu pierścienia wracamy do Rączki, aby zakończyć zadanie.
+
+#### Sakiewki dla Rączki
+Rączka chce, abyśmy zdobyli sakwy z talarami. Musimy je ukraść od następujących osób: Arto, Thorus, Gor Na Toth, Silas oraz Wyzysk. Po zdobyciu wszystkich sakiew wracamy do Rączki, aby zakończyć zadanie.
+
 #### Pomóc przemytnikom
 Zadanie informacyjne – po jego ukończeniu możemy rozpocząć II rozdział.
 Zadanie otrzymujemy od Lestera po dołączeniu do gildii, w momencie, gdy standardowo rozpoczynał się drugi rozdział.
