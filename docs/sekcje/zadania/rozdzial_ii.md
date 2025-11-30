@@ -1,5 +1,20 @@
 # Rozdział II
 
+#### Zaginieni kopacze
+Kiedy jesteśmy Strażnikiem Starego Obozu lub Strażnikiem Kopalni, Kruk zleca nam odnalezienie czterech zbiegłych kopaczy.
+
+Pierwszego z nich, Sanchesa, znajdujemy przy ognisku przy północnej bramie Starego Obozu. Informuje nas on o kopaczu Nixie, który poszedł do młynu po jedzenie. Udajemy się więc do młynu przy rzece, gdzie okazuje się, że Nix został zjedzony przez aligatory. Zabieramy jego broń i ruszamy dalej.
+
+Trzeciego kopacza, Martineza, znajdujemy w zawalonej wieży przy południowej bramie. Ten jednak nie ufa, że przysyła nas Kruk i atakuję nas, więc jesteśmy zmuszeni go zabić.
+
+Ostatni zbieg, Popo, uciekł ze Starej Kopalni i zatrzymał się u alchemika. Po rozmowie z nim wracamy do Kruka i informujemy o odnalezieniu wszystkich uciekinierów. Kruk wysyła nas następnie do Bartholo, aby dowiedzieć się czegoś o losach magnata Sairo, odpowiedzialnego za koordynację między Starym Obozem a obozem przed kopalnią.
+
+W obozie przed kopalnią pytamy Melkora o magnata. Ten jednak zleca nam odnalezienie kopacza Nesta, który uciekł z jego rzeczami. Nest leży martwy w jaskini niedaleko obozu, zabity przez zębacze. Czytamy znalezione przy nim zapiski Melkora i wracamy z nimi do Bartholo.
+
+>Uwaga: nie wracamy do Melkora — zabierze nam notatki!
+
+Zdając raport Bartholo i kończąc jego polecenie, otrzymujemy zadanie [Obóz Strażników](Obóz-Strażników). Po jego wykonaniu zadanie zostaje ukończone.
+
 ####  Obóz Strażników
 Zadanie otrzymujemy po tym, kiedy powiemy Bartholo, kto stoi za zabójstwem Sairo.
 Rozmawiamy z Wyzyskiem, który informuje nas, że Melkor zebrał strażników, zaatakował Nowy Obóz, a Kazzmira uwięził w klatce. Ruszamy w pogoń za nim. Na miejscu okazuje się, że przeżył tylko Melkor.
