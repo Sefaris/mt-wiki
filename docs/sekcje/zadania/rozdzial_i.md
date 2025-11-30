@@ -43,6 +43,9 @@ Radi po ugotowaniu dla niego rosołu wręcza nam spodnie Kopacza jako nagrodę. 
 #### Głodni kopacze
 Rendi potrzebuje 150 sztuk mięsa dla kopaczy. Po dostarczeniu mu wymaganego mięsa zadanie zostaje zakończone.
 
+#### Gdzie jest Ordin?
+Strażnik, który przynosił mięso dla kopaczy, gdzieś zniknął. Znajdziemy jego ciało, idąc w stronę Kanionu Trolli, między zębaczami. Przeszukujemy jego ciało, zabieramy pierścień i wracamy do Rendiego, aby zakończyć zadanie.
+
 #### Szewc Fiska
 Fisk poszukuje nowego szewca. Udajemy się do Draxa, który zgadza się podjąć pracy. Następnie wracamy do Fiska, aby przekazać mu informację. W nagrodę otrzymujemy spodnie Kopacza. Spodnie można również zdobyć podczas zadania [Rosół dla Radiego](#Rosół-dla-Radiego).
 
