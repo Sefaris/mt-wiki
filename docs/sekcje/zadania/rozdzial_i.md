@@ -100,4 +100,17 @@ Muzyk z karczmy Siekacza nie znosi strażników z Placu Wymian – Ghorriego i L
 Dorm jest bardzo chory i prosi nas o przyniesienie mu lekarstwa od alchemika. Kupujemy je u alchemika za 60 bryłek rudy, a następnie zanosimy Dormowi, kończąc zadanie.
 
 #### Przebranie kopacza
-Aby wejść do Starej Kopalni, potrzebujemy spodni Kopacza. Można je zdobyć wykonując quest [Szewc Fiska](#Szewc-Fiska) lub [Rosół Radiego](#Rosół-Radiego).
+Aby wejść do Starej Kopalni, potrzebujemy spodni Kopacza. Można je zdobyć wykonując quest [Szewc Fiska](#Szewc-Fiska) lub [Rosół dla Radiego](#Rosół-dla-Radiego).
+
+#### Ziele dla Corina
+Corin prosi nas o dostarczenie 30 Mroków Północy. Po zdobyciu wszystkich jointów udajemy się następnego dnia do Corina, aby zakończyć zadanie.
+
+#### Skrytka kopaczy
+Melkor zleca nam odnalezienie kryjówki kopaczy, którą znajdziemy pod rampą z katapultą, w godzinach od 7:00 do 11:00 oraz od 18:00 do 21:00.
+
+Po odnalezieniu kryjówki możemy:
+* zabić kopaczy (lepsza nagroda)
+* donieść Melkorowi o ich kryjówce (gorsza nagroda).
+
+#### List Morghara
+W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: `„Myślałem, że to wychodek.”` Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](#Dziwna-jaskinia).
