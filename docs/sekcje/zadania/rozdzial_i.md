@@ -142,3 +142,6 @@ Diego proponuje nam przyspieszony awans na Strażnika. Pozbywamy się Quentina z
 
 #### Ułatwiony awans na Najemnika
 Lares proponuje nam przyspieszony awans na Najemnika. Zabijamy Quentina i przynosimy jego pierścień do Laresa. Następnego dnia rozmawiamy z Lee, aby zakończyć zadanie.
+
+#### Zapasy dla gwardzisty
+W lesie, w którym spotykamy Nyrasa, możemy natrafić także na Malta. Potrzebuje on jedzenia: chleba, szynki, sera, potrawki z chrząszcza, winogron i piwa. Po dostarczeniu mu wszystkich produktów zadanie zostaje zakończone.
