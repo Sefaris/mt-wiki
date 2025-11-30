@@ -118,3 +118,9 @@ W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozm
 
 #### Problem Verdona
 Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybieramy dialog: `„W jaskini niedaleko obozu znalazłem skrzynię pełną wina!”`. Halldor pobiegnie do wskazanej jaskini. Gdy już tam dotrze, rozmawiamy z nim ponownie, po czym zabijamy go i zdajemy raport Verdonowi.
+
+#### Ułatwiony awans w Starym Obozie
+Diego proponuje nam przyspieszony awans na Strażnika. Pozbywamy się Quentina zgodnie z życzeniem Thangora, wracamy do Diego i następnego dnia rozmawiamy z Thorusem, aby dokończyć sprawę.
+
+#### Ułatwiony awans na Najemnika
+Lares proponuje nam przyspieszony awans na Najemnika. Zabijamy Quentina i przynosimy jego pierścień do Laresa. Następnego dnia rozmawiamy z Lee, aby zakończyć zadanie.
