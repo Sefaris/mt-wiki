@@ -23,3 +23,7 @@ Wyzysk potrzebuje nowych ludzi do zarządzania zaopatrzeniem obozu. Rozmawiamy z
 
 #### Gdzie jest Rabod?
 Na Przełęczy, spotykamy Vezoka i Letora, którzy proszą nas o odnalezienie Raboda. Udajemy się w stronę Starego Obozu. Raboda odnajdziemy przy drzewie, obok dwóch Ścierwojadów. Po dokonaniu odkrycia wracamy do Vezoka i Letora, aby przekazać im wiadomość i zakończyć zadanie.
+
+#### Hej, szmaciarzu!
+Podczas wykonywania zadania [Nowi ludzie do obozu](#Nowi-ludzie-do-obozu), jeśli wcześniej zaczepił nas Ben, możemy teraz się na nim odegrać. Idziemy do niego i zlecamy mu patrol terenów orków. Ben wściekle nas atakuję – pokonujemy go, po czym rozmawiamy z nim ponownie. Ostatecznie zgadza się wykonywać patrole, a zadanie zostaje zakończone.
+
