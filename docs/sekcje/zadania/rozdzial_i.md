@@ -7,6 +7,9 @@ Opcjonalnie możemy również pokazać mu recepturę Cor Kaloma, jeśli ją posi
 
 > Zadanie należy wykonać w I rozdziale. Po jego ukończeniu Kosiarz przenosi się do Nowego Obozu, gdzie możemy odebrać dodatkową nagrodę.
 
+#### Wino dla Halldora
+Halldor prosi nas o przyniesienie mu wina. Po dostarczeniu wina zadanie zostaje ukończone.
+
 #### Pomóc przemytnikom
 Zadanie informacyjne – po jego ukończeniu możemy rozpocząć II rozdział.
 Zadanie otrzymujemy od Lestera po dołączeniu do gildii, w momencie, gdy standardowo rozpoczynał się drugi rozdział.
@@ -95,3 +98,6 @@ Muzyk z karczmy Siekacza nie znosi strażników z Placu Wymian – Ghorriego i L
 
 #### Lekarstwo Dorma
 Dorm jest bardzo chory i prosi nas o przyniesienie mu lekarstwa od alchemika. Kupujemy je u alchemika za 60 bryłek rudy, a następnie zanosimy Dormowi, kończąc zadanie.
+
+#### Przebranie kopacza
+Aby wejść do Starej Kopalni, potrzebujemy spodni Kopacza. Można je zdobyć wykonując quest [Szewc Fiska](#Szewc-Fiska) lub [Rosół Radiego](#Rosół-Radiego).
