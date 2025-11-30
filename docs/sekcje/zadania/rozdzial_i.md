@@ -122,6 +122,9 @@ Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybie
 #### Zaginiony miecz
 Zadanie otrzymujemy po dołączeniu do jednej z gildii. Kamylos zgubił swój miecz na terytoriach orków, i zleca nam jego odnalezienie. Udajemy się do Valkira a później do Krwiopusza, który oddaje nam broń. Wracamy do Kamylosa i oddajemy mu jego zgubę.
 
+#### Gdzie jest strażnik?
+Po zwróceniu miecza dla Kamylosa ma on jeszcze jedną prośbę. Jeden ze strażników udał się na zwiady w okolice obozu Sekty, lecz do tej pory nie wrócił. Znajdujemy go martwego w lesie niedaleko obozu, zagryzionego przez kretoszczury. Czytamy znalezioną przy nim notatkę i wracamy do Kamylosa po nagrodę.
+
 #### Ułatwiony awans w Starym Obozie
 Diego proponuje nam przyspieszony awans na Strażnika. Pozbywamy się Quentina zgodnie z życzeniem Thangora, wracamy do Diego i następnego dnia rozmawiamy z Thorusem, aby dokończyć sprawę.
 
