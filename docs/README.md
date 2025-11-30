@@ -8,6 +8,7 @@ TODO
 
 **Inni współtwórcy:**
 - Deetom554
+- Paweu
 ---
 
 ## Jak aktualizować solucję
