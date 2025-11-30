@@ -34,3 +34,5 @@ Na Przełęczy, spotykamy Vezoka i Letora, którzy proszą nas o odnalezienie Ra
 #### Hej, szmaciarzu!
 Podczas wykonywania zadania [Nowi ludzie do obozu](#Nowi-ludzie-do-obozu), jeśli wcześniej zaczepił nas Ben, możemy teraz się na nim odegrać. Idziemy do niego i zlecamy mu patrol terenów orków. Ben wściekle nas atakuję – pokonujemy go, po czym rozmawiamy z nim ponownie. Ostatecznie zgadza się wykonywać patrole, a zadanie zostaje zakończone.
 
+#### Tona złota 
+Malt chce, abyśmy zdobyli dla niego 10 tysięcy złotych monet z wieży zamku w Starym Obozie. Po zebraniu wymaganej kwoty wracamy do Malta, aby zakończyć zadanie.
