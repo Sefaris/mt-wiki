@@ -4,9 +4,6 @@ Na tej stronie znajdziesz kompletną solucję do modyfikacji _Gothic I: Mroczne 
 
 ## Osoby, które przyczyniły się do stworzenia solucji i jej aktualizacji
 
-TODO
-
-**Inni współtwórcy:**
 - Deetom554
 - Paweu
 ---
