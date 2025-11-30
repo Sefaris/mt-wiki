@@ -45,6 +45,7 @@ Fisk poszukuje nowego szewca. Udajemy się do Draxa, który zgadza się podjąć
 Siekacz wysyła nas do łowców orków, aby zabić Traffixa. Zadanie możemy wykonać na dwa sposoby:
 
 a) Zabić Traffixa, zgodnie z poleceniem.
+
 b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy walki.
 
 Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję „Misiek i piwo to stanowczo za mało!”, możemy wytargować od niego 250 bryłek rudy.
@@ -52,11 +53,11 @@ Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Pod
 #### Nieznajomy
 Eremita z jaskini przy fanatykach zleca nam odnalezienie 6 ksiąg. Znajdziemy je w następujących miejscach:
 
-Wieża Mgieł – przy sobie ma ją szkielet maga.
-Plac Wymian – leży na deskach.
-Klasztor Zmiennokształtnych – na górze, po drugiej stronie, tam gdzie gobliny zabijaki.
-Wieża w Starym Obozie – księgę zdobędziemy po ukończeniu zadania [Muzyk](#Muzyk).
-Thangor – dostępna dopiero po rozmowie z Eremitą i oddaniu mu wcześniej zebranych tomów.
+* Wieża Mgieł – przy sobie ma ją szkielet maga.
+* Plac Wymian – leży na deskach.
+* Klasztor Zmiennokształtnych – na górze, po drugiej stronie, tam gdzie gobliny zabijaki.
+* Wieża w Starym Obozie – księgę zdobędziemy po ukończeniu zadania [Muzyk](#Muzyk).
+* Thangor – dostępna dopiero po rozmowie z Eremitą i oddaniu mu wcześniej zebranych tomów.
 
 Po zebraniu wszystkich ksiąg i oddaniu ich Nieznajomemu (Eremicie), ten znika, a ponownie spotkać go można w podziemiach Wieży Mgieł.
 
