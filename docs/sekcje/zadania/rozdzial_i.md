@@ -11,7 +11,7 @@ Opcjonalnie możemy również pokazać mu recepturę Cor Kaloma, jeśli ją posi
 Zadanie informacyjne – po jego ukończeniu możemy rozpocząć II rozdział.
 Zadanie otrzymujemy od Lestera po dołączeniu do gildii, w momencie, gdy standardowo rozpoczynał się drugi rozdział.
 
-Aby je ukończyć, musimy wykonać zadania związane z przemytnikami: [Góra stali dla Anghara](#Góra-stali-dla-Anghara) [Ruda dla Monka](Ruda-dlaMonka) [Łuk Kyro](Łuk-Kyro) [Pierścień Kortha](Pierścień-Kortha) [Pomóc Servinowi](Pomóc-Servinowi), aż do momentu rozmowy z Wężem o osobie odpowiedzialnej za przemyt rudy.
+Aby je ukończyć, musimy wykonać zadania związane z przemytnikami: [Góra stali dla Anghara](#Góra-stali-dla-Anghara), [Ruda dla Monka](Ruda-dlaMonka), [Łuk Kyro](Łuk-Kyro), [Pierścień Kortha](Pierścień-Kortha), [Pomóc Servinowi](Pomóc-Servinowi), aż do momentu rozmowy z Wężem o osobie odpowiedzialnej za przemyt rudy.
 
 #### Góra stali dla Anghara
 Anghar potrzebuje 40 stalowych prętów. Część z nich możemy zdobyć kradnąc ze skrzyni Huno lub zabierając ze zbrojowni w obozie przed Starą Kopalnią.
