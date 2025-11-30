@@ -40,6 +40,9 @@ Servin prosi nas o dostarczenie: 40 kawałków surowego mięsa, 20 skór wilków
 #### Rosół dla Radiego
 Radi po ugotowaniu dla niego rosołu wręcza nam spodnie Kopacza jako nagrodę. Spodnie można również zdobyć podczas zadania [Szewc Fiska](#Szewc-Fiska).
 
+#### Głodni kopacze
+Rendi potrzebuje 150 sztuk mięsa dla kopaczy. Po dostarczeniu mu wymaganego mięsa zadanie zostaje zakończone.
+
 #### Szewc Fiska
 Fisk poszukuje nowego szewca. Udajemy się do Draxa, który zgadza się podjąć pracy. Następnie wracamy do Fiska, aby przekazać mu informację. W nagrodę otrzymujemy spodnie Kopacza. Spodnie można również zdobyć podczas zadania [Rosół dla Radiego](#Rosół-dla-Radiego).
 
