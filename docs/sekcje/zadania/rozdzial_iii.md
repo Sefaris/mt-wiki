@@ -16,3 +16,8 @@ Wraz z nią idziemy na polowanie na zębacza. Jeśli jej pomożemy lub zbyt się
 Następnie rozmawiamy z Punkem w obozie o odnalezieniu Unan i wyruszamy z nim i Unan na polowanie na młodego czarnego trolla. Na miejscu sytuacja się komplikuje – walczymy z samicą czarnego trolla i jej młodymi.
 
 Po walce i kilku dniach ponownie spotykamy się z małżeństwem w obozie. Punek wręcza nam trofeum i zaczyna się rozgadywać – wypytujemy Unan o ich historię. Zadanie zostaje zakończone.
+
+#### Legendarny miecz
+<ins>Zadanie dostaniemy po dowiedzeniu się o ucieczce Monka od Thangora</ins>
+
+Malt zleca nam odnalezienie Legendarnego Płonącego Miecza, który znajduje się w posiadaniu Monka. Odnajdziemy go w górskiej fortecy. Musimy pokonać Monka i zabrać mu miecz. Po zdobyciu artefaktu wracamy do Malta, aby zakończyć zadanie.
