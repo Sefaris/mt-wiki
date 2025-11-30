@@ -10,6 +10,9 @@ Opcjonalnie możemy również pokazać mu recepturę Cor Kaloma, jeśli ją posi
 #### Wino dla Halldora
 Halldor prosi nas o przyniesienie mu wina. Po dostarczeniu wina zadanie zostaje ukończone.
 
+#### Arena w Starym Obozie
+Na arenie musimy pokonać Kharima i Kirgo. Po wygraniu tych walk Scatty przygotowuje dla nas kolejne wyzwania. Następnie walczymy bez przerwy z Herekiem, Shratem i Rufusem. Kolejna runda to ponowne starcie z Kirgo i Kharimem, również bez przerwy między walkami. W finale musimy pokonać Gor Hanisa, a następnie stawić czoła wilkom, golemom i trollowi. Po zwycięstwie we wszystkich starciach zostajemy mistrzem areny!
+
 #### Pierścień Klina
 Rączka chce pierścień, który posiada Klin. Aby Klin nie przyłapał nas na kradzieży, potrzebujemy co najmniej 90 zręczności. Po zdobyciu pierścienia wracamy do Rączki, aby zakończyć zadanie.
 
