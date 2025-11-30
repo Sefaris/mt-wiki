@@ -46,6 +46,16 @@ Po walce zabieramy z jego ciała Pierścień Kortha i oddajemy go samemu Korthow
 #### Pomóc Servinowi
 Servin prosi nas o dostarczenie: 40 kawałków surowego mięsa, 20 skór wilków i 30 butelek ryżówki. Po dostarczeniu wszystkich wymaganych produktów zadanie zostaje ukończone.
 
+#### Zaopatrzenie dla bandytów
+Chrząszczu chce, abyśmy zaopatrzyli ich w żywność. Udajemy się do Ratforda, a następnie do Grahama, któremu kradniemy mapę z kieszeni. Wracamy z mapą do Ratforda, a potem ponownie do Chrząszcza, aby zakończyć zadanie.
+
+#### Nekromanta z zewnątrz
+Zadanie informacyjne związane z Rhobertusem, które kończy się wraz z zakończeniem głównej linii fabularnej.
+
+#### Księgi dla Gardhara
+
+Gardhara zaciekawiły księgi, które daje nam Rhobertus w związku z postępem przy krysztale teleportacji. Łącznie jest ich 6. Po oddaniu wszystkich ksiąg Gardharowi zadanie zostaje zakończone.
+
 #### Rosół dla Radiego
 Radi po ugotowaniu dla niego rosołu wręcza nam spodnie Kopacza jako nagrodę. Spodnie można również zdobyć podczas zadania [Szewc Fiska](#Szewc-Fiska).
 
