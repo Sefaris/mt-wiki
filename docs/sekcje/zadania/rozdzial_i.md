@@ -60,6 +60,7 @@ Eremita z jaskini przy fanatykach zleca nam odnalezienie 6 ksiąg. Znajdziemy je
 * Plac Wymian – leży na deskach.
 * Klasztor Zmiennokształtnych – na górze, po drugiej stronie, tam gdzie gobliny zabijaki.
 * Wieża w Starym Obozie – księgę zdobędziemy po ukończeniu zadania [Muzyk](#Muzyk).
+* Kanion Trolii - leży przy kołowrocie.
 * Thangor – dostępna dopiero po rozmowie z Eremitą i oddaniu mu wcześniej zebranych tomów.
 
 Po zebraniu wszystkich ksiąg i oddaniu ich Nieznajomemu (Eremicie), ten znika, a ponownie spotkać go można w podziemiach Wieży Mgieł.
@@ -114,3 +115,6 @@ Po odnalezieniu kryjówki możemy:
 
 #### List Morghara
 W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: `„Myślałem, że to wychodek”`. Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](#Dziwna-jaskinia).
+
+#### Problem Verdona
+Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybieramy dialog: `„W jaskini niedaleko obozu znalazłem skrzynię pełną wina!”`. Halldor pobiegnie do wskazanej jaskini. Gdy już tam dotrze, rozmawiamy z nim ponownie, po czym zabijamy go i zdajemy raport Verdonowi.
