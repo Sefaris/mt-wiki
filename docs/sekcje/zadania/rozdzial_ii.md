@@ -15,10 +15,10 @@ Kazzmir zleca nam pomoc Wyzyskowi w uporaniu się z bandytami atakującymi konwo
 
 Kazzmir zleca nam pozbycie się dwóch wielkich gadów. Pierwszego znajdziemy w jaskini niedaleko Komara, natomiast drugi przebywa na rozwidleniu rzeki, w pobliżu obozu Draxa i Ratforda. Po zabiciu obu stworzeń wracamy do Kazzmira, aby zakończyć zadanie.
 
-##### Dziwna jaskinia
+#### Dziwna jaskinia
 Po dostaniu się do jaskini Melkora przekazujemy informacje Morgharowi. Zadanie ukończone.
 
-##### Nowi ludzie do obozu
+#### Nowi ludzie do obozu
 Wyzysk potrzebuje nowych ludzi do zarządzania zaopatrzeniem obozu. Rozmawiamy z Diego o nowych skazańcach, jednak Diego już się tym nie zajmuje, więc sami udajemy się na Plac Wymian. Przy Opuszczonej Kopalni spotykamy Letora i Vezoka, którzy zgadzają się dołączyć do obozu po wykonaniu zadania [Gdzie jest Rabod?](#Gdzie-jest-Rabod-?). Po przekazaniu informacji Wyzyskowi udajemy się porozmawiać z Corinem – tym samym zadanie zostaje zakończone.
 
 #### Gdzie jest Rabod?
