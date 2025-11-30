@@ -41,3 +41,31 @@ Radi po ugotowaniu dla niego rosołu wręcza nam spodnie Kopacza jako nagrodę. 
 Fisk poszukuje nowego szewca. Udajemy się do Draxa, który zgadza się podjąć pracy. Następnie wracamy do Fiska, aby przekazać mu informację. W nagrodę otrzymujemy spodnie Kopacza. Spodnie można również zdobyć podczas zadania [Rosół dla Radiego](#Rosół-dla-Radiego).
 
 #### Łowca orków Traffix 
+
+Siekacz wysyła nas do łowców orków, aby zabić Traffixa. Zadanie możemy wykonać na dwa sposoby:
+
+a) Zabić Traffixa, zgodnie z poleceniem.
+b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy walki.
+
+Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję „Misiek i piwo to stanowczo za mało!”, możemy wytargować od niego 250 bryłek rudy.
+
+#### Nieznajomy
+Eremita z jaskini przy fanatykach zleca nam odnalezienie 6 ksiąg. Znajdziemy je w następujących miejscach:
+
+Wieża Mgieł – przy sobie ma ją szkielet maga.
+Plac Wymian – leży na deskach.
+Klasztor Zmiennokształtnych – na górze, po drugiej stronie, tam gdzie gobliny zabijaki.
+Wieża w Starym Obozie – księgę zdobędziemy po ukończeniu zadania [Muzyk](#Muzyk).
+Thangor – dostępna dopiero po rozmowie z Eremitą i oddaniu mu wcześniej zebranych tomów.
+
+Po zebraniu wszystkich ksiąg i oddaniu ich Nieznajomemu (Eremicie), ten znika, a ponownie spotkać go można w podziemiach Wieży Mgieł.
+
+#### Joint dla Gortha
+Gorth potrzebuje czegoś mocnego do palenia. Udajemy się więc na bagna, gdzie u Fortuno kupujemy bardzo mocny joint. Następnie wracamy do Gortha i wręczamy mu zakupiony towar, kończąc zadanie.
+
+#### Monopol na bimber
+Zadanie dostępne po dołączeniu do obozu przed kopalnią.
+Siekacz prosi nas, abyśmy zrobili porządek z bimbrownikami z Nowego Obozu. Udajemy się do jaskini nad rzeką, gdzie przebywa Jacko wraz ze swoimi kompanami. Zabijamy całą grupę, a następnie wracamy do Siekacza, aby zdać raport i zakończyć zadanie.
+
+#### Dwanaście piw dla Komara
+Komar prosi nas o dostarczenie 12 piw. Na wykonanie zadania mamy 2 dni – jeśli nie zdążymy na czas, Komar nas pobije. Po zdobyciu i oddaniu mu 12 sztuk zadanie zostaje zakończone.
