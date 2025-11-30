@@ -33,3 +33,11 @@ Po walce zabieramy z jego ciała Pierścień Kortha i oddajemy go samemu Korthow
 
 #### Pomóc Servinowi
 Servin prosi nas o dostarczenie: 40 kawałków surowego mięsa, 20 skór wilków i 30 butelek ryżówki. Po dostarczeniu wszystkich wymaganych produktów zadanie zostaje ukończone.
+
+#### Rosół dla Radiego
+Radi po ugotowaniu dla niego rosołu wręcza nam spodnie Kopacza jako nagrodę. Spodnie można również zdobyć podczas zadania [Szewc Fiska](#Szewc-Fiska).
+
+#### Szewc Fiska
+Fisk poszukuje nowego szewca. Udajemy się do Draxa, który zgadza się podjąć pracy. Następnie wracamy do Fiska, aby przekazać mu informację. W nagrodę otrzymujemy spodnie Kopacza. Spodnie można również zdobyć podczas zadania [Rosół dla Radiego](#Rosół-dla-Radiego).
+
+#### Łowca orków Traffix 
