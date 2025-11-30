@@ -66,3 +66,32 @@ Gorth potrzebuje czegoś mocnego do palenia. Udajemy się więc na bagna, gdzie 
 
 #### Dwanaście piw dla Komara
 Komar prosi nas o dostarczenie 12 piw. Na wykonanie zadania mamy 2 dni – jeśli nie zdążymy na czas, Komar nas pobije. Po zdobyciu i oddaniu mu 12 sztuk zadanie zostaje zakończone.
+
+#### Jedzenie dla kowala Sanda
+Sand nauczy nas kowalstwa, jeśli dostarczymy mu następujące jedzenie:
+
+* 5 bochenków chleba
+* 3 szynki
+* 2 kiście winogron
+* 5 kawałków sera
+* 10 kawałków pieczonego mięsa
+* 5 butelek wina
+* 10 jabłek
+* 2 butelki bimbru
+
+Po dostarczeniu wszystkich produktów Sand rozpoczyna naukę kowalstwa.
+
+#### Kłopotliwy kucharz
+Kopacze mają dość fatalnego kucharza i proszą nas, abyśmy donieśli o tym Kazzmirowi. Kazzmir chce zobaczyć kucharza osobiście, lecz gdy próbujemy go przyprowadzić, kucharz ucieka. W efekcie musimy znaleźć nowego kucharza dla kopaczy.
+
+#### Nowy kucharz
+Nowym kucharzem dla kopaczy może zostać Mark lub Kyle:
+
+* Kyle – Rozmawiamy najpierw ze Snafem, a następnie z Kylem, który zgadza się zostać kucharzem. Prowadzimy go do obozu przed kopalnią. (lepsza nagroda)
+* Mark – Rozmawiamy z Wyzyskiem i Borisem, aby przekonać Marka do objęcia stanowiska. (gorsza nagroda)
+
+#### Muzyk
+Muzyk z karczmy Siekacza nie znosi strażników z Placu Wymian – Ghorriego i Lukisa. Zabijamy obu wskazanych strażników, a następnie wracamy do Muzyka, aby zdać raport i zakończyć zadanie.
+
+#### Lekarstwo Dorma
+Dorm jest bardzo chory i prosi nas o przyniesienie mu lekarstwa od alchemika. Kupujemy je u alchemika za 60 bryłek rudy, a następnie zanosimy Dormowi, kończąc zadanie.
