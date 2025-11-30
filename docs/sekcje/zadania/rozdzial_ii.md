@@ -1,6 +1,11 @@
 # Rozdział II
 
 ####  Obóz Strażników
+Zadanie otrzymujemy po tym, kiedy powiemy Bartholo, kto stoi za zabójstwem Sairo.
+Rozmawiamy z Wyzyskiem, który informuje nas, że Melkor zebrał strażników, zaatakował Nowy Obóz, a Kazzmira uwięził w klatce. Ruszamy w pogoń za nim. Na miejscu okazuje się, że przeżył tylko Melkor.
+
+Po wymianie zdań udajemy się na plac przed Starą Kopalnią i zabijamy Melkora w walce. Następnie idziemy uwolnić Kazzmira, który prosi nas o odzyskanie jego miecza, który miał przy sobie Melkor. Oddajemy mu miecz i wracamy do Bartholo, informując o śmierci Melkora.
+W nagrodę otrzymujemy pełnomocnictwo upoważniające do zostania przywódcą obozu przed kopalnią. Następnie wracamy do Kazzmira i tym samym zostajemy szefem obozu, kończąc zadanie.
 
 #### Monopol na bimber
 <ins>Zadanie dostępne po dołączeniu do obozu przed kopalnią.</ins>
