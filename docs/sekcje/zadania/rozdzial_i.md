@@ -51,7 +51,7 @@ a) Zabić Traffixa, zgodnie z poleceniem.
 
 b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy walki.
 
-Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję „Misiek i piwo to stanowczo za mało!”, możemy wytargować od niego 250 bryłek rudy.
+Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję `„Misiek i piwo to stanowczo za mało!”`, możemy wytargować od niego 250 bryłek rudy.
 
 #### Nieznajomy
 Eremita z jaskini przy fanatykach zleca nam odnalezienie 6 ksiąg. Znajdziemy je w następujących miejscach:
@@ -113,4 +113,4 @@ Po odnalezieniu kryjówki możemy:
 * donieść Melkorowi o ich kryjówce (gorsza nagroda).
 
 #### List Morghara
-W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: `„Myślałem, że to wychodek.”` Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](#Dziwna-jaskinia).
+W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: `„Myślałem, że to wychodek”`. Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](#Dziwna-jaskinia).
