@@ -1,5 +1,5 @@
 - **Informacje**
-- [TEST](sekcje/informacje-dodatkowe/test.md)
+- [Lista teleportów](sekcje/informacje-dodatkowe/lista-teleportow.md)
 
 - **Zadania**
 - [Rozdział I](sekcje/zadania/rozdzial_i.md)
