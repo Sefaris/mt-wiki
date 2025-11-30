@@ -32,4 +32,4 @@ Po walce zabieramy z jego ciała Pierścień Kortha i oddajemy go samemu Korthow
 > Dla ułatwienia starcia możemy wcześniej udać się na teren obok Zatopionej Wieży Xardasa i zabrać z piedestału miecz Święte Wygnanie, który z łatwością niszczy nieumarłych, znacząco upraszczając walkę z Duchem Magnata.
 
 #### Pomóc Servinowi
-Servin prosi nas o dostarczenie: 40 kawałków surowego mięsa, 20 skór wilków, 30 butelek ryżówki. Po dostarczeniu wszystkich wymaganych produktów zadanie zostaje ukończone.
+Servin prosi nas o dostarczenie: 40 kawałków surowego mięsa, 20 skór wilków i 30 butelek ryżówki. Po dostarczeniu wszystkich wymaganych produktów zadanie zostaje ukończone.
