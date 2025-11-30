@@ -31,5 +31,5 @@ Domyślnie projekt uruchamia się pod adresem: `http://localhost:3000`.
 Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach występujących w tym repozytorium, utwórz forka, dokonaj zmian, a następnie w utwórz Pull Requesta. Nie zapomnij dopisać się w sekcji [Autorzy](#Autorzy)!
 
 ## Autorzy
-
-TODO
+- Deetom554
+- Paweu
