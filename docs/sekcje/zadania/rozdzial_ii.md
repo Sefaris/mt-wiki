@@ -14,3 +14,6 @@ Kazzmir zleca nam pomoc Wyzyskowi w uporaniu się z bandytami atakującymi konwo
 <ins>Zadanie dostępne po dołączeniu do obozu przed kopalnią.</ins>
 
 Kazzmir zleca nam pozbycie się dwóch wielkich gadów. Pierwszego znajdziemy w jaskini niedaleko Komara, natomiast drugi przebywa na rozwidleniu rzeki, w pobliżu obozu Draxa i Ratforda. Po zabiciu obu stworzeń wracamy do Kazzmira, aby zakończyć zadanie.
+
+##### Dziwna jaskinia
+Po dostaniu się do jaskini Melkora przekazujemy informacje Morgharowi. Zadanie ukończone.
