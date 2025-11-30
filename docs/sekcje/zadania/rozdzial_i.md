@@ -17,7 +17,7 @@ Zadanie otrzymujemy od Lestera po dołączeniu do gildii, w momencie, gdy standa
 Aby je ukończyć, musimy wykonać zadania związane z przemytnikami: [Góra stali dla Anghara](#Góra-stali-dla-Anghara), [Ruda dla Monka](#Ruda-dla-Monka), [Łuk Kyro](#Łuk-Kyro), [Pierścień Kortha](#Pierścień-Kortha), [Pomóc Servinowi](#Pomóc-Servinowi), aż do momentu rozmowy z Wężem o osobie odpowiedzialnej za przemyt rudy.
 
 #### Góra stali dla Anghara
-Anghar potrzebuje 40 stalowych prętów. Część z nich możemy zdobyć kradnąc ze skrzyni Huno lub zabierając ze zbrojowni w obozie przed Starą Kopalnią.
+Anghar potrzebuje 40 stalowych prętów. Część z nich możemy zdobyć kradnąc ze skrzyni Huno, zabierając ze zbrojowni w obozie przed Starą Kopalnią lub kradnąc ze skrzyni w kuźni na bagnie.
 Po zebraniu wymaganej liczby prętów oddajemy je Angharowi, aby ukończyć zadanie.
 
 #### Ruda Monka
@@ -118,6 +118,9 @@ W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozm
 
 #### Problem Verdona
 Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybieramy dialog: `„W jaskini niedaleko obozu znalazłem skrzynię pełną wina!”`. Halldor pobiegnie do wskazanej jaskini. Gdy już tam dotrze, rozmawiamy z nim ponownie, po czym zabijamy go i zdajemy raport Verdonowi.
+
+#### Zaginiony miecz
+Zadanie otrzymujemy po dołączeniu do jednej z gildii. Kamylos zgubił swój miecz na terytoriach orków, i zleca nam jego odnalezienie. Udajemy się do Valkira a później do Krwiopusza, który oddaje nam broń. Wracamy do Kamylosa i oddajemy mu jego zgubę.
 
 #### Ułatwiony awans w Starym Obozie
 Diego proponuje nam przyspieszony awans na Strażnika. Pozbywamy się Quentina zgodnie z życzeniem Thangora, wracamy do Diego i następnego dnia rozmawiamy z Thorusem, aby dokończyć sprawę.
