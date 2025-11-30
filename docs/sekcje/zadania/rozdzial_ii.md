@@ -1,5 +1,7 @@
 # Rozdział II
 
+####  Obóz Strażników
+
 #### Monopol na bimber
 <ins>Zadanie dostępne po dołączeniu do obozu przed kopalnią.</ins>
 
