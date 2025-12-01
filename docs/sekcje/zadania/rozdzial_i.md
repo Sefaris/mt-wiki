@@ -135,6 +135,11 @@ b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy
 
 Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję `„Misiek i piwo to stanowczo za mało!”`, możemy wytargować od niego 250 bryłek rudy.
 
+#### Ekwipunek Siekacza
+Zadanie otrzymujemy po wykonaniu [Łowca orków Traffix](#Łowca-orków-Traffix). Siekacz chce odzyskać swoje spodnie i baseball.
+
+Spodnie znajdują się w komnacie z Velayą w siedzibie magnatów w Starym Obozie, a baseball leży w kryjówce Melkora. Oddajemy mu jego rzeczy i czekamy, aż ponownie nas zagada, kończąc zadanie.
+
 #### Tajemniczy Eremita
 Zadanie powiązane z [Nieznajomy](#Nieznajomy)
 
