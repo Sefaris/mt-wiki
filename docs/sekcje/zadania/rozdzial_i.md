@@ -68,7 +68,13 @@ Aby je ukończyć, musimy wykonać zadania związane z przemytnikami: [Góra sta
 Anghar potrzebuje 40 stalowych prętów. Część z nich możemy zdobyć kradnąc ze skrzyni Huno, zabierając ze zbrojowni w obozie przed Starą Kopalnią lub kradnąc ze skrzyni w kuźni na bagnie.
 Po zebraniu wymaganej liczby prętów oddajemy je Angharowi, aby ukończyć zadanie.
 
+#### Kowal Anghar
+Zadanie otrzymujemy, gdy zgadzamy się przynieść mu stal. Po wykonaniu zadania [Góra stali dla Anghara](#Góra-stali-dla-Anghara) opowiada nam historię o byciu paladynem.
+
+W IV rozdziale kowal mówi o pewnym mieczu, który może ulepszyć naszą broń. Miecz otrzymujemy od Sheer'Gara w świątyni Pradawnych, jeśli zdecydujemy się zostać jego uczniem. Wracamy do Przemytnika i oddajemy mu broń — Anghar może ją również przekuć na miecz jednoręczny. Niezależnie od wyboru, rozmawiamy ponownie z kowalem, a ten wręcza nam gotowy oręż.
+
 #### Ruda Monka
+
 Monk prosi nas o odzyskanie rudy od Gilberta, który mieszka w jaskini położonej wysoko na klifie, na południe od Starego Obozu.
 Po dotarciu na miejsce okazuje się, że były kopacz nie posiada wymaganej ilości rudy, dlatego musimy zapłacić za niego, aby ukończyć zadanie.
 
