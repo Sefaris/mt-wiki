@@ -1,6 +1,6 @@
 # Teleporty
 
-> Kompletna lista wszystkich teleportów
+> Kompletna lista wszystkich teleportów dostępnych w MT 2.5
 
 | Cel teleportacji              | Jak zdobyć?                                                                 |
 |:------------------------------|:---------------------------------------------------------------------------|
