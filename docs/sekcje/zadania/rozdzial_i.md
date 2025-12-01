@@ -226,6 +226,9 @@ Diego proponuje nam przyspieszony awans na Strażnika. Pozbywamy się Quentina z
 Lares proponuje nam przyspieszony awans na Najemnika. Zabijamy Quentina i przynosimy jego pierścień do Laresa. Następnego dnia rozmawiamy z Lee, aby zakończyć zadanie.
 
 #### Ułatwiony awans na Strażnika Świątynnego
+Zadanie otrzymujemy od Cor Kaloma po zapytaniu o możliwość zostania Strażnikiem Świątynnym. Zostajemy odesłani do Gor na Totha, który zleca nam zabicie Quentina, napadającego wraz ze swoimi ludźmi na członków Bractwa w okolicach Starej Kopalni.
+
+Po pokonaniu bandytów wracamy do Totha, który każe nam zgłosić się następnego dnia do Cor Angara, który oficjalnie awansuje nas na Strażnika Świątynnego.
 
 #### Zapasy dla gwardzisty
 W lesie, w którym spotykamy Nyrasa, możemy natrafić także na Malta. Potrzebuje on jedzenia: chleba, szynki, sera, potrawki z chrząszcza, winogron i piwa. Po dostarczeniu mu wszystkich produktów zadanie zostaje zakończone.
