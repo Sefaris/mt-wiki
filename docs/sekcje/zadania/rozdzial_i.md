@@ -19,6 +19,9 @@ Rączka chce pierścień, który posiada Klin. Aby Klin nie przyłapał nas na k
 #### Sakiewki dla Rączki
 Rączka chce, abyśmy zdobyli sakwy z talarami. Musimy je ukraść od następujących osób: Arto, Thorus, Gor Na Toth, Silas oraz Wyzysk. Po zdobyciu wszystkich sakiew wracamy do Rączki, aby zakończyć zadanie.
 
+#### Skóry dla Huno
+Huno zgodzi się nauczyć nas podstaw kowalstwa, jeśli dostarczymy mu 10 skór wilków. Gdy tylko oddamy mu wymagane skóry, odblokuje się możliwość nauczenia się: I i II poziomu kowalstwa. Na tym zadanie się kończy.
+
 #### Pomóc przemytnikom
 Zadanie informacyjne – po jego ukończeniu możemy rozpocząć II rozdział.
 Zadanie otrzymujemy od Lestera po dołączeniu do gildii, w momencie, gdy standardowo rozpoczynał się drugi rozdział.
@@ -149,6 +152,15 @@ Zadanie otrzymujemy po dołączeniu do jednej z gildii. Kamylos zgubił swój mi
 
 #### Gdzie jest strażnik?
 Po zwróceniu miecza dla Kamylosa ma on jeszcze jedną prośbę. Jeden ze strażników udał się na zwiady w okolice obozu Sekty, lecz do tej pory nie wrócił. Znajdujemy go martwego w lesie niedaleko obozu, zagryzionego przez kretoszczury. Czytamy znalezioną przy nim notatkę i wracamy do Kamylosa po nagrodę.
+
+#### Dziwne poszukiwania
+Po rozmowie z Gardharem otrzymujemy polecenie sprawdzenia, dokąd poleciał pocisk wystrzelony z katapulty. Udajemy się pod wieżę Xardasa, gdzie znajduje się wielka wyrwa w ziemi. Lej jest pilnowany przez dwóch orków–elit. 
+
+W środku zabijamy dwa pajęczaki i podnosimy kryształ, który leży na samym dnie. Wracamy do Gardhara i oddajemy mu znalezisko, kończąc pierwszy etap.
+
+`W III rozdziale`, podczas poszukiwania kamieni ogniskujących, Gardhar sam nas zaczepia i wręcza nam kryształ teleportacyjny. Użycie go przenosi nas przed wrota do jaskini Pradawnych.
+
+Po przejściu całego wątku Pradawnych wracamy do Gardhara i zdajemy raport, co zamyka zadanie.
 
 #### Ułatwiony awans w Starym Obozie
 Diego proponuje nam przyspieszony awans na Strażnika. Pozbywamy się Quentina zgodnie z życzeniem Thangora, wracamy do Diego i następnego dnia rozmawiamy z Thorusem, aby dokończyć sprawę.
