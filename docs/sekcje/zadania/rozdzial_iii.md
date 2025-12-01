@@ -24,6 +24,11 @@ Następnie rozmawiamy z Punkem w obozie o odnalezieniu Unan i wyruszamy z nim i 
 
 Po walce i kilku dniach ponownie spotykamy się z małżeństwem w obozie. Punek wręcza nam trofeum i zaczyna się rozgadywać – wypytujemy Unan o ich historię. Zadanie zostaje zakończone.
 
+#### Nowy almanach
+Zadanie otrzymujemy po przyniesieniu almanachu ze skrzyni Cor Kaloma dla Saturasa. Okazuje się, że brakuje kilku stron, przez co naładowanie kamieni ogniskujących jest niemożliwe.
+
+Pytamy Gardhara o brakującą księgę. Odda ją, jeśli wykonamy wątek Pradawnych. Wykonujemy wątek Pradawnych, odbieramy księgę i zanosimy ją Saturasowi, co kończy zadanie.
+
 #### Kamień z kanionu trolli
 Kiedy wyruszamy po kamień ogniskujący do kanionu trolli, okazuje się, że ktoś nas uprzedził. Diego podejrzewa jednego z Przemytników. Rozmawiamy z Thangorem, który informuje nas, że oprócz kamienia skradziono mu również sekstans, a za wszystkim stoi Monk.
 
