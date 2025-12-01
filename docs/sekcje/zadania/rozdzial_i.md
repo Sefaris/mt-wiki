@@ -17,6 +17,15 @@ Pomóc może Algirion, jednak potrzebuje pamiętnika kryptologa, który znajduje
 
 Na koniec wracamy do Diego i informujemy go o wszystkim, finalizując zadanie.
 
+#### Porwanie
+Zadanie otrzymujemy na samym początku gry podczas rozmowy z Rostem. Bandyci porwali pewną kobietę, a kopacz bierze nas za jednego z nich. Powalamy go na ziemię i grozimy śmiercią. Rost ucieka, upuszczając notatkę, którą podnosimy i czytamy — dowiadujemy się, że jest od Krolla.
+
+Kroll przebywa w lochach zamku Starego Obozu, a klucz do nich znajduje się w pomieszczeniu z Bullitem. Kroll chce wydostać się z zamku, lecz potrzebuje pancerza strażnika — możemy mu oddać zbroję ze Starego Obozu lub strażnika kopalni.
+
+Wyprowadzamy go z zamku; przy Thorusie nakazuje nam udać się do obozu Quentina i porozmawiać z Volarem. Kiedy mówimy, że przysyła nas Kroll, przepuszcza nas. Następnie rozmawiamy z Kirą, która ma zadanie dla Krolla.
+
+Wracamy do Krolla, który stoi przed bramą Starego Obozu, i prowadzimy go do obozu na bagnie. Po krótkiej rozmowie czekamy, aż ponownie nas zagada, i prowadzimy go do jaskini, w której przebywa Kira. Na koniec rozmawiamy z nią i kończymy zadanie.
+
 #### Alchemik
 Zadanie dostępne od pierwszej rozmowy z alchemikiem. Starzec oferuje opowieść o niektórych roślinach, jeśli przyniesiemy mu orkowe ziele, czarne ziele i krucze ziele. Informuje nas też, że możemy przynosić mu wnętrzności potworów. Oddajemy wymagane rośliny, a on opowiada nam o ich właściwościach.
 
