@@ -1,5 +1,8 @@
 # Rozdział V
 
+#### Sprowadzić Yrpena
+Valkir wysyła Yrpena do obozu Sekty. Udajemy się w okolice ubijaczy ziela i dwukrotnie rozmawiamy z Yrpenem. Wybieramy opcję `„Obóz cię potrzebuje!”`, po czym eskortujemy go wraz ze strażnikami z powrotem do Valkira. Po rozmowie z Valkirem zadanie zostaje ukończone.
+
 #### Zbuntowany sługa
 Po rozmowie z Xardasem zostajemy przeteleportowani do Pradawnych. Rozmawiamy z nimi i odbieramy bonusy, następnie trafiamy do Dbruce’a, który zleca nam zabicie Smoka Ożywieńca w Zatopionej Wieży. Pokonujemy bestię i wracamy do zleceniodawcy, zadanie zostaje zakończone.
 
