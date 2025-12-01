@@ -15,6 +15,12 @@ W obozie przed kopalnią pytamy Melkora o magnata. Ten jednak zleca nam odnalezi
 
 Zdając raport Bartholo i kończąc jego polecenie, otrzymujemy zadanie [Obóz Strażników](Obóz-Strażników). Po jego wykonaniu zadanie zostaje ukończone.
 
+#### Przemyt rudy
+
+<ins>Zadanie dostajemy po wykonaniu [Dostawcy rudy](#Dostawca-rudy) lub po [Zaginieni kopacze](#Zaginieni-kopacze).</ins>
+
+Kruk dowiedział się o naszym lewym układzie z kupcem i każe nam to wyjaśnić. Rozmawiamy z Thangorem, a potem z Melkorem, który zabiera nam całą rudę w zamian za darowanie życia. Wracamy do Kruka, dowiadujemy się kto stoi za przemytem i mamy zabić Melkora. Eliminujemy go, meldujemy Krukowi o śmierci magnata, po czym wracamy do Thangora, kończąc zadanie.
+
 ####  Obóz Strażników
 Zadanie otrzymujemy po tym, kiedy powiemy Bartholo, kto stoi za zabójstwem Sairo.
 Rozmawiamy z Wyzyskiem, który informuje nas, że Melkor zebrał strażników, zaatakował Nowy Obóz, a Kazzmira uwięził w klatce. Ruszamy w pogoń za nim. Na miejscu okazuje się, że przeżył tylko Melkor.
