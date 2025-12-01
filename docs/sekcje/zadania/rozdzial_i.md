@@ -1,7 +1,17 @@
 # Rozdział I
 
-#### Informacje dla Kosiarza
+#### Alchemik
+Zadanie dostępne od pierwszej rozmowy z alchemikiem. Starzec oferuje opowieść o niektórych roślinach, jeśli przyniesiemy mu orkowe ziele, czarne ziele i krucze ziele. Informuje nas też, że możemy przynosić mu wnętrzności potworów. Oddajemy wymagane rośliny, a on opowiada nam o ich właściwościach.
 
+Pytamy go o naukę alchemii — zgadza się nas uczyć, jeśli dostarczymy 8 serafisów, 3 zioła uzdrawiające i jedną psiankę. Po oddaniu wszystkich roślin możemy rozpocząć naukę.
+
+Gdy osiągniemy 10 poziom, alchemik prosi o przyniesienie nasiona czerwonego buka i nasiona wysokiego dębu. Dostarczamy je i otrzymujemy w nagrodę możliwość wybrania jednej stałej mikstury.
+
+Jeśli mamy w ekwipunku krew smoka, informujemy o tym alchemika. Starzec oferuje przygotowanie specjalnego wywaru, ale potrzebuje jeszcze perły i czarnej perły. Perłę znajdziemy za Servinem na brzegu morza w obozie Przemytników, a czarną perłę w jaskini goblinów z almanachem. Po oddaniu pereł czekamy aż alchemik sam zagada i otrzymujemy fiolkę, którą wypijamy od razu.
+
+W V rozdziale odnajdujemy alchemika w lochach miasta orków. Po krótkiej rozmowie zabijamy orkowego dozorcę i uwalniamy starca. W podziękowaniu wręcza nam klucz do skrzyni w opuszczonym młynie, kończąc zadanie.
+
+#### Informacje dla Kosiarza
 W obozie Ratforda i Draxa spotykamy Kosiarza. Zleca nam on zdobycie informacji na temat Mordraga, Dextera, Neka oraz Świstaka.
 Opcjonalnie możemy również pokazać mu recepturę Cor Kaloma, jeśli ją posiadamy.
 
@@ -49,6 +59,24 @@ Po walce zabieramy z jego ciała Pierścień Kortha i oddajemy go samemu Korthow
 #### Pomóc Servinowi
 Servin prosi nas o dostarczenie: 40 kawałków surowego mięsa, 20 skór wilków i 30 butelek ryżówki. Po dostarczeniu wszystkich wymaganych produktów zadanie zostaje ukończone.
 
+#### Poszukiwanie skarbów
+Zadanie otrzymujemy od Servina, jeśli mamy przy sobie jakikolwiek skarb. Opowiada on historię z nimi związaną i zleca nam odnalezienie wszystkich pięciu artefaktów.
+
+1. Graal Życia – znajduje się na tronie, na szczycie wieży w klasztorze zmiennokształtnych.
+2. Relikwiarz Innosa – leży w kamiennym kręgu pod cytadelą, pilnowany przez wojowników cienia i łowcę dusz.
+3. Relikwie Adanosa – ukryte w cytadeli; naciskamy przycisk na murach ruin, wchodzimy do środka i zabieramy przedmiot.
+4. Misa z krwią demona – znajduje się w zatopionej wieży Xardasa (lewa wnęka). Dostęp do niej otrzymujemy dopiero podczas wykonywania zadania [Zbuntowany sługa](/#/sekcje/zadania/rozdzial_v?id=zbuntowany-sługa).
+5. Posążek Innosa – jest przy nieumarłym cieniostworze w jaskini pod cytadelą, w tym samym miejscu, gdzie zdobywamy Relikwiarz Innosa.
+
+Po oddaniu wszystkich artefaktów czekamy, aż Servin sam do nas zagada, kończąc zadanie.
+
+#### Kowal Argorn
+Na jeziorze w Nowym Obozie stacjonuje kowal Argorn. Kiedy pytamy go o naukę kowalstwa, zleca nam przyniesienie Mściwej Stali. Miecz ten znajdziemy pod mostem do miasta orków, w lochach miasta orków lub w skrzyni bandytów w lesie przed obozem przed kopalnią (klucz otrzymujemy dopiero podczas zadania [Atak na bandytów](#Atak-na-bandytów) w II rozdziale). Oddajemy miecz Argornowi, a ten zgadza się nas uczyć.
+
+Aby popchnąć zadanie dalej, musimy stopniowo szkolić się u niego w kowalstwie. Argorn może nauczyć nas również ostrzenia mieczy i toporów, jeśli przyniesiemy mu posążek Innosa, który znajdziemy m.in. w kuźni Anghara w obozie Przemytników.
+
+W III rozdziale, po nauczeniu się 3. poziomu kowalstwa, Argorn oferuje nam możliwość wykucia osobistej broni. Sekret jej stworzenia zdradzi dopiero po przyniesieniu czarnej rudy, którą zdobyć można przy królowej pajęczaków w jaskini przed świątynią Pradawnych lub na ołtarzu w kamiennym kręgu w podziemnym świecie. Po oddaniu surowca może nas nauczyć 4. poziomu kowalstwa, co kończy zadanie.
+
 #### Zaopatrzenie dla bandytów
 Chrząszczu chce, abyśmy zaopatrzyli ich w żywność. Udajemy się do Ratforda, a następnie do Grahama, któremu kradniemy mapę z kieszeni. Wracamy z mapą do Ratforda, a potem ponownie do Chrząszcza, aby zakończyć zadanie.
 
@@ -81,6 +109,9 @@ b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy
 
 Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję `„Misiek i piwo to stanowczo za mało!”`, możemy wytargować od niego 250 bryłek rudy.
 
+#### Tajemniczy Eremita
+Zadanie powiązane z [Nieznajomy](#Nieznajomy
+)
 #### Nieznajomy
 Eremita z jaskini przy fanatykach zleca nam odnalezienie 6 ksiąg. Znajdziemy je w następujących miejscach:
 
