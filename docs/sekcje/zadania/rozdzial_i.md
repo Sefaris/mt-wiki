@@ -1,5 +1,22 @@
 # Rozdział I
 
+#### Pomóc Diego
+Zadanie otrzymujemy od Diego na samym początku przygody, kiedy wypytamy go o pozostałe obozy. Wspomina wtedy o obozie Przemytników i podpowiada nam, jak do nich dotrzeć. Zanim jednak tam wyruszymy, warto porozmawiać z Kyro i wykonać zadanie [Łuk Kyro](Łuk-Kyro).
+
+Po ukończeniu jego zlecenia udajemy się do obozu Przemytników, gdzie rozmawiamy z Korthem, pilnującym wejścia do obozu. Następnie kierujemy się do Servina. Okazuje się, że paczuszka, która miała kosztować 200 bryłek, kosztuje jednak 300 bryłek. Nie mając innego wyjścia, dopłacamy brakujące 100 bryłek i wracamy z łukami do Diego.
+
+W II rozdziale kontynuujemy zadanie, pytając Diego, czy ma dla nas jakąś robotę. Zleca nam wyjaśnienie okoliczności śmierci Neka. W ciele martwego strażnika znajdujemy podejrzany bełt. Pytamy Diego, do kogo mógłby należeć — wskazuje on na Cavalorna.
+
+Rozmawiamy z nim na ten temat, a ten obiecuje powiedzieć nam prawdę, jeśli zaniesiemy Servinowi jego strzały. Przekazujemy je Przemytnikowi i wracamy do Cienia, który stwierdza, że owy bełt należy do Pacho. Udajemy się do strażnika, a ten wyjawia nam, że to Zły zlecił zabójstwo Neka.
+
+Wracamy do Diego, który odsyła nas do Thorusa. Przywódca strażników mówi nam o liście, który Nek otrzymał od Corristo. Ponownie rozmawiamy z Diego, który poleca nam przycisnąć Złego. Konfrontujemy się z Cieniem — ten sprawdza, co wiemy. Na pytanie o jego szefa odpowiadamy, że jest nim Kruk. Zły każe nam spotkać się ze sobą o północy w jaskini przy moście niedaleko obozu.
+
+Na miejscu okazuje się, że Zły nie zamierza niczego wyjawiać — dochodzi do walki i zabijamy go. Przy jego ciele znajdujemy notatkę, z którą wracamy do Diego i opowiadamy o nocnym spotkaniu. Pokazujemy mu zwój, a ten kieruje nas do jakiegoś maga.
+
+Pomóc może Algirion, jednak potrzebuje pamiętnika kryptologa, który znajduje się przy zombie-uczonym na bagnach. Zabijamy nieumarłego, zdobywamy dziennik i wracamy do Pradawnego. Ten odszyfrowuje zwój.
+
+Na koniec wracamy do Diego i informujemy go o wszystkim, finalizując zadanie.
+
 #### Alchemik
 Zadanie dostępne od pierwszej rozmowy z alchemikiem. Starzec oferuje opowieść o niektórych roślinach, jeśli przyniesiemy mu orkowe ziele, czarne ziele i krucze ziele. Informuje nas też, że możemy przynosić mu wnętrzności potworów. Oddajemy wymagane rośliny, a on opowiada nam o ich właściwościach.
 
@@ -77,6 +94,15 @@ Aby popchnąć zadanie dalej, musimy stopniowo szkolić się u niego w kowalstwi
 
 W III rozdziale, po nauczeniu się 3. poziomu kowalstwa, Argorn oferuje nam możliwość wykucia osobistej broni. Sekret jej stworzenia zdradzi dopiero po przyniesieniu czarnej rudy, którą zdobyć można przy królowej pajęczaków w jaskini przed świątynią Pradawnych lub na ołtarzu w kamiennym kręgu w podziemnym świecie. Po oddaniu surowca może nas nauczyć 4. poziomu kowalstwa, co kończy zadanie.
 
+#### Dostawca rudy
+Zadanie otrzymujemy po tym, kiedy Quentin nas oszuka. Na tym etapie nie zabijamy go, tylko wracamy do Thangora, który wścieka się i każe nam ustalić, kto z kopalni zajmuje się dostawą rudy. Wspomina też, że w razie problemów może pomóc Korth — choć możemy też samodzielnie wybić całą bandę bez jego wsparcia.
+
+Gadamy z Korthem i ruszamy do obozu bandytów. Prowokujemy Quentina i jego ludzi do walki, zabijamy ich i wracamy do Kortha. Następnie idziemy do Ratforda, który zdradza, że Quentin miał układ z Magami Wody. Dociskamy go i ruszamy do Starej Kopalni.
+
+Rozmawiamy z Drake’iem, a następnie z Alefem, któremu płacimy 100 bryłek, w zamian za co zdradza nam, kto przetapia rudę. Idziemy do Węża, ale ten nie ujawni kupca, dopóki nie zabijemy królowej pełzaczy. Kontynuujemy zadanie w II rozdziale – po pokonaniu królowej wracamy do Węża i dowiadujemy się, że za lewym obrotem rudy stoi Alberto.
+
+Rozmawiamy z Alberto, odbieramy przesyłkę z rudą i wracamy do Thangora, kończąc zadanie.
+
 #### Zaopatrzenie dla bandytów
 Chrząszczu chce, abyśmy zaopatrzyli ich w żywność. Udajemy się do Ratforda, a następnie do Grahama, któremu kradniemy mapę z kieszeni. Wracamy z mapą do Ratforda, a potem ponownie do Chrząszcza, aby zakończyć zadanie.
 
@@ -110,8 +136,8 @@ b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy
 Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję `„Misiek i piwo to stanowczo za mało!”`, możemy wytargować od niego 250 bryłek rudy.
 
 #### Tajemniczy Eremita
-Zadanie powiązane z [Nieznajomy](#Nieznajomy
-)
+Zadanie powiązane z [Nieznajomy](#Nieznajomy)
+
 #### Nieznajomy
 Eremita z jaskini przy fanatykach zleca nam odnalezienie 6 ksiąg. Znajdziemy je w następujących miejscach:
 
@@ -199,5 +225,38 @@ Diego proponuje nam przyspieszony awans na Strażnika. Pozbywamy się Quentina z
 #### Ułatwiony awans na Najemnika
 Lares proponuje nam przyspieszony awans na Najemnika. Zabijamy Quentina i przynosimy jego pierścień do Laresa. Następnego dnia rozmawiamy z Lee, aby zakończyć zadanie.
 
+#### Ułatwiony awans na Strażnika Świątynnego
+
 #### Zapasy dla gwardzisty
 W lesie, w którym spotykamy Nyrasa, możemy natrafić także na Malta. Potrzebuje on jedzenia: chleba, szynki, sera, potrawki z chrząszcza, winogron i piwa. Po dostarczeniu mu wszystkich produktów zadanie zostaje zakończone.
+
+#### Przyjęcie do obozu Fanatyków
+Zadanie otrzymujemy podczas rozmowy z Xordem, gdy wyrazimy chęć dołączenia do obozu. Naszym celem jest odnalezienie dwóch zaginionych członków: Tallina i Fao.
+
+Tallina odnajdujemy przed mostem prowadzącym do Nowego Obozu — wystarczy z nim porozmawiać. Fao nie miał jednak tyle szczęścia; jego ciało znajduje się w jaskini przed mostem, niedaleko Starego Obozu.
+
+Wracamy do Xorda i przekazujemy mu wieści. Ten podejrzewa, że za śmierć Fao odpowiada jeden z sekciarzy, dlatego udajemy się nad jeziorko niedaleko obozu Fanatyków, gdzie przebywa podejrzany. Po rozmowie z nim dochodzi do walki — zabijamy go i wracamy do Xorda.
+
+Po dostarczeniu dobrych wieści zostajemy przyjęci do obozu.
+
+#### Kusza Atariusa
+Zadanie otrzymujemy, gdy chcemy rozpocząć naukę kusznictwa u Atariusa. Ten początkowo nam nie ufa i zgadza się nas uczyć tylko wtedy, jeśli przyniesiemy mu jego kuszę.
+
+Rozmawiamy ze Shratem, który mówi, że kusza jest w posiadaniu Scatty’ego. Spotykamy go i uzgadniamy wydanie kuszy pod warunkiem, że pokonamy Gor Hanisa na arenie. Sekciarza zwyciężamy w trakcie zadania [Arena w Starym Obozie](#Arena-w-Starym-Obozie).
+
+Po walce informujemy Scatty’ego o zwycięstwie. Oddaje nam kuszę, którą następnie zwracamy Atariusowi, kończąc etap zadania.
+
+#### Pierścień Pradawnych
+Zadanie otrzymujemy od Baal Kolisa, który prosi nas o odnalezienie jego pierścienia, skradzionego przez przywódcę bandytów.
+
+Udajemy się do obozu, w którym przebywa Gestath w Gothic 2. Rozmawiamy z Wogorem, po czym go zabijamy i zabieramy pierścień. Na koniec oddajemy go Kolisowi, kończąc zadanie.
+
+#### Odnaleźć Pradawnych
+Zadanie otrzymujemy od Kolisa, który opowiada nam o Pradawnych, twierdząc, że jedyną słuszną drogą do wolności są właśnie oni.
+
+Wykonujemy wątek Pradawnych, a następnie wracamy do fanatyka i przekazujemy mu wieści. Dostajemy od niego list, który oddajemy Ken’Udzowi, po czym ponownie wracamy do Kolisa. Ten rzuca się na nas, twierdząc, że go oszukaliśmy. Zabijamy przywódcę fanatyków, kończąc zadanie.
+
+#### Patrole sekty
+Zadanie otrzymujemy od Xorda po rozmowie z Kolisem o jego pierścieniu. Mamy rozbić dwie grupy sekciarzy niedaleko obozu, jednak potrzebujemy wsparcia.
+
+Rozmawiamy kolejno z Tallinem, Algierem, Korą, Atariusem, a na końcu z Palermo, który jako jedyny zgadza się nam pomóc. Po zabiciu obu grup wracamy do Xorda i informujemy go o wykonaniu zadania.
