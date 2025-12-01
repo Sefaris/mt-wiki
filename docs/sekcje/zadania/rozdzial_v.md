@@ -1,5 +1,10 @@
 # Rozdział V
 
+#### Ulepszenie zbroi
+Zadanie otrzymujemy od Argorna, który proponuje wzmocnienie naszego pancerza z płytek pełzaczy. Do wykonania zlecenia potrzebujemy 10 płytek oraz 12 000 bryłek rudy.
+
+Po zdobyciu wszystkich materiałów oddajemy je Argornowi, a po chwili otrzymujemy wzmocnioną wersję pancerza z płytek pełzaczy.
+
 #### Sprowadzić Yrpena
 Valkir wysyła Yrpena do obozu Sekty. Udajemy się w okolice ubijaczy ziela i dwukrotnie rozmawiamy z Yrpenem. Wybieramy opcję `„Obóz cię potrzebuje!”`, po czym eskortujemy go wraz ze strażnikami z powrotem do Valkira. Po rozmowie z Valkirem zadanie zostaje ukończone.
 
