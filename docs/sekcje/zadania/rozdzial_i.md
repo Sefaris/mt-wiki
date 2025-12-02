@@ -293,3 +293,5 @@ Rozmawiamy kolejno z Tallinem, Algierem, Korą, Atariusem, a na końcu z Palermo
 Zadanie rozpoczyna się przy pierwszej rozmowie ze Skrzypkiem. Naszym celem jest pokonanie czterech przeciwników: Psycho, Bronna, Beowulfa oraz orka Morth’Gnar.
 
 Pierwszą walkę możemy podjąć dopiero po dołączeniu do jednej z głównych frakcji. Po zabiciu Psycho przychodzi czas na Bronna, którego możemy wyzwać na pojedynek, jeśli jesteśmy strażnikiem kopalni. Po zwycięstwie stajemy do walki z Beowulfem, który zgodzi się walczyć, kiedy zostaniemy przywódcą obozu. Po jego pokonaniu ostatnim przeciwnikiem jest ork Morth’Gnar — walka z nim jest możliwa tylko wtedy, gdy wybraliśmy swojego mistrza wśród Pradawnych (III rozdział). Po pokonaniu orka rozmawiamy ze Skrzypkiem, kończąc zadanie.
+
+>Kryształ Zwycięzców możemy użyć od razu dla bonusów, a jednocześnie oddać swojemu mistrzowi Pradawnych.
