@@ -7,9 +7,6 @@ Cor Angar chce rozejmu z fanatykami i wysyła nas z jego propozycją. Zakładamy
 
 Po wykonaniu wątku wracamy do Kolisa i informujemy go, że spotkaliśmy Pradawnych. Ten każe nam dostarczyć list do Ken'Udza. Kiedy wracamy do Kolisa kolejny raz, ten oskarża nas o kłamstwo i atakuje. Zabijamy go i gadamy z Xordem, który żałuje śmierci przywódcy, ale zgadza się na warunki pokoju. Wracamy do Angara i informujemy go o powodzeniu zadania.
 
-#### Tajemniczy rycerz
-Po teleportacji dziwnym kryształem od Gardhara spotykamy Strażnika Groty, którego musimy pokonać. Zadanie kończy się po rozmowie z Algirionem i poznaniu historii Paladyna.
-
 #### Misja Matheva
 W jaskini obok mostu przy Starym Obozie, spotykamy Matheva, który walczy z bandytami. Pomagamy mu ich pokonać, a następnie rozmawiamy z nim.
 Zleca nam zabicie Delpha i zabranie jego pierścienia. Po dodatkowe informacje udajemy się do Thorusa. Delpha i Paweua znajdziemy w tej samej jaskini, w której wcześniej zdobyliśmy Almanach dla Cor Kaloma. Po pokonaniu obu i zabraniu pierścienia wracamy do zleceniodawcy, aby zakończyć zadanie.
@@ -23,11 +20,6 @@ Wraz z nią idziemy na polowanie na zębacza. Jeśli jej pomożemy lub zbyt się
 Następnie rozmawiamy z Punkem w obozie o odnalezieniu Unan i wyruszamy z nim i Unan na polowanie na młodego czarnego trolla. Na miejscu sytuacja się komplikuje – walczymy z samicą czarnego trolla i jej młodymi.
 
 Po walce i kilku dniach ponownie spotykamy się z małżeństwem w obozie. Punek wręcza nam trofeum i zaczyna się rozgadywać – wypytujemy Unan o ich historię. Zadanie zostaje zakończone.
-
-#### Nowy almanach
-Zadanie otrzymujemy po przyniesieniu almanachu ze skrzyni Cor Kaloma dla Saturasa. Okazuje się, że brakuje kilku stron, przez co naładowanie kamieni ogniskujących jest niemożliwe.
-
-Pytamy Gardhara o brakującą księgę. Odda ją, jeśli wykonamy wątek Pradawnych. Wykonujemy wątek Pradawnych, odbieramy księgę i zanosimy ją Saturasowi, co kończy zadanie.
 
 #### Kamień z kanionu trolli
 Kiedy wyruszamy po kamień ogniskujący do kanionu trolli, okazuje się, że ktoś nas uprzedził. Diego podejrzewa jednego z Przemytników. Rozmawiamy z Thangorem, który informuje nas, że oprócz kamienia skradziono mu również sekstans, a za wszystkim stoi Monk.
@@ -48,9 +40,29 @@ Skrzypek dołącza do nas jako towarzysz, choć możemy go pozostawić przy aren
 
 Najpierw pyta, za co trafiliśmy do Kolonii. Po 2 dniach otrzymujemy +5 siły i +5 zręczności. Po kolejnych 4 dniach pyta, czym zajmowaliśmy się przed Kolonią i daje +20 zdrowia. Trzecia rozmowa (po 3 dniach) dotyczy wyboru boga: Adanos daje bonus do zręczności, a Innos do siły. W następnej rozmowie odpowiadamy, jak zachowalibyśmy się, gdyby towarzysz znalazł się w tarapatach: `„Rzucam się na tych sukinsynów!”` daje bonus do siły, a `„Próbuję odciągnąć ich uwagę.”` — do zręczności. Ostatnia rozmowa pojawia się dopiero po 5 dniach i dopiero w VI rozdziale; po niej zadanie się kończy, a my dostajemy +20 zdrowia, +5 siły i +5 zręczności.
 
+#### Nowy almanach
+Zadanie otrzymujemy po przyniesieniu almanachu ze skrzyni Cor Kaloma dla Saturasa. Okazuje się, że brakuje kilku stron, przez co naładowanie kamieni ogniskujących jest niemożliwe.
+
+Pytamy Gardhara o brakującą księgę. Odda ją, jeśli wykonamy wątek Pradawnych. Wykonujemy wątek Pradawnych, odbieramy księgę i zanosimy ją Saturasowi, co kończy zadanie.
+
+#### Tajemniczy rycerz
+Po teleportacji dziwnym kryształem od Gardhara spotykamy Strażnika Groty, którego musimy pokonać. Zadanie kończy się po rozmowie z Algirionem i poznaniu historii Paladyna.
+
 #### Pradawni
+Dostajemy dostęp do Pradawnych podczas postępu fabularnego w zadaniu [Nowy Almanach](#Nowy-Almanach). Po pokonaniu Paladyna z zadania [Tajemniczy Rycerz](#Tajemniczy-rycerz) naciskamy przycisk na każdym z czterech sarkofagów, co otwiera kratę. Przebijamy się przez nieumarłych do jaskini z portalem, zabijając wszystko na drodze. Przechodzimy przez wiszący most, otwieramy zakratowane przejście, eliminujemy Strażnika Portalu, zbieramy ekwipunek i docieramy do teleportu.
+
+Na miejscu wita nas smok, którym jest Pradawny Algirion. Idziemy do Ken’Udza i rozmawiamy o [Drodze Siedmiu Kroków](#Droga-siedmiu-kroków). Czytamy księgę Illuminati, następnie odwiedzamy Sheer’Ghara (musi nas pobić) i Flad’Naga. Kolejne rozmowy z Algirionem i Flad’Nagiem wymagają wyboru opcji dialogowych: `„Wiara w przyjaciół czasami przyćmiewa prawdę o nich.”` `„Ja też poznałem gorzki smak zdrady.”` `„Ja pragnę jedynie… wolności.”`
+
+Balaiareth zleca nam zdobycie krwi Ognionoścy. Eli’Ne prosi o trzy rośliny: Ciernistą Paproć, Nocny Aloes i Mroczny Szczaw. Za wykonanie zadania możemy wybrać nagrodę – pierścień lub noc z Eli’Ne. Po zdobyciu fałszywej krwi u Flad’Naga oddajemy ją Balaiarethowi, który znika i daje klucz.
+
+Wracamy do Ken’Udza, który zleca nam wybór mistrza – Sheer’Ghara dla wojowników lub Algiriona dla magów. Po wyborze mistrza odpowiadamy na jego zagadki: `Cień, Śmierć, Mrok,` a następnie zdobywamy Kryształ Zwycięzców na Starożytnej Arenie i oddajemy go mistrzowi.
+
+Rozpoczyna się zadanie [Dowody](#Dowody). Aby wydostać się od Pradawnych, używamy prawego przycisku w komnacie, w której rozmawialiśmy ze smokiem. Po wykonaniu „Starożytnej Areny” i „Dowodów” wracamy do Ken’Udza. Następnie sługi Beliara atakują świątynię – eliminujemy wszystkich wrogów i rozmawiamy z Algirionem i Sheer’Gharem.
+
+Kolejnym celem jest Balaiareth ukrywający się w jaskini na terenach orków. Otwieramy drzwi kluczem, rozmawiamy z nim i zabijamy, zabierając teleport. Używamy teleportu, docieramy do Uriziela, eliminujemy go, zdobywamy teleport i przedmioty, w tym głowę. Na końcu używamy teleportu i rozmawiamy z Awatarem Innosa oraz Synem Innosa. Wracamy do Pradawnych i po rozmowie z nimi, kończymy zadanie.
 
 #### Droga siedmiu kroków
+Zadanie powiązane z [Pradawni.](#Pradawni)
 
 #### Podziemny świat
 Kiedy pytamy Eli'Ne o sposób wydostania się z podziemnego świata, wspomina o czterech kluczach potrzebnych do stworzenia kryształu teleportacyjnego. Pierwszy klucz, kamienny kryształ, znajduje się w kamiennym kręgu niedaleko kamiennego smoka. Drugi, kryształ bestii, leży przy rozpruwaczach w pobliżu kamiennego kręgu z olbrzymimi szkieletami. Trzeci klucz, kryształ demona, zdobywamy przy pradawnym trollu. Ostatni, czwarty klucz, jest w posiadaniu ognistego strażnika stojącego przy górze rudy na wzgórzu (po prawej stronie od wejścia, jeśli idziemy ze świątyni Pradawnych). Po zebraniu wszystkich kluczy oddajemy je Eli'Ne, a ta tworzy kryształ teleportacyjny, kończąc zadanie.
