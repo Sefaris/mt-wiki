@@ -40,3 +40,28 @@ Monka znajdziemy na piętrze górskiej fortecy. Rozmawiamy z nim, po czym go zab
 <ins>Zadanie dostaniemy po dowiedzeniu się o ucieczce Monka od Thangora</ins>
 
 Malt zleca nam odnalezienie Legendarnego Płonącego Miecza, który znajduje się w posiadaniu Monka. Odnajdziemy go w górskiej fortecy. Musimy pokonać Monka i zabrać mu miecz. Po zdobyciu artefaktu wracamy do Malta, aby zakończyć zadanie.
+
+#### Towarzysz
+<ins>Zadanie otrzymujemy po pokonaniu wszystkich na starożytnej arenie.</ins>
+
+Skrzypek dołącza do nas jako towarzysz, choć możemy go pozostawić przy arenie — dialogi i tak będą się aktywować. Od tego momentu co kilka dni zagaduje nas, a każda rozmowa daje bonusy.
+
+Najpierw pyta, za co trafiliśmy do Kolonii. Po 2 dniach otrzymujemy +5 siły i +5 zręczności. Po kolejnych 4 dniach pyta, czym zajmowaliśmy się przed Kolonią i daje +20 zdrowia. Trzecia rozmowa (po 3 dniach) dotyczy wyboru boga: Adanos daje bonus do zręczności, a Innos do siły. W następnej rozmowie odpowiadamy, jak zachowalibyśmy się, gdyby towarzysz znalazł się w tarapatach: `„Rzucam się na tych sukinsynów!”` daje bonus do siły, a `„Próbuję odciągnąć ich uwagę.”` — do zręczności. Ostatnia rozmowa pojawia się dopiero po 5 dniach i dopiero w VI rozdziale; po niej zadanie się kończy, a my dostajemy +20 zdrowia, +5 siły i +5 zręczności.
+
+#### Pradawni
+
+#### Droga siedmiu kroków
+
+#### Podziemny świat
+Kiedy pytamy Eli'Ne o sposób wydostania się z podziemnego świata, wspomina o czterech kluczach potrzebnych do stworzenia kryształu teleportacyjnego. Pierwszy klucz, kamienny kryształ, znajduje się w kamiennym kręgu niedaleko kamiennego smoka. Drugi, kryształ bestii, leży przy rozpruwaczach w pobliżu kamiennego kręgu z olbrzymimi szkieletami. Trzeci klucz, kryształ demona, zdobywamy przy pradawnym trollu. Ostatni, czwarty klucz, jest w posiadaniu ognistego strażnika stojącego przy górze rudy na wzgórzu (po prawej stronie od wejścia, jeśli idziemy ze świątyni Pradawnych). Po zebraniu wszystkich kluczy oddajemy je Eli'Ne, a ta tworzy kryształ teleportacyjny, kończąc zadanie.
+
+#### Teleport
+Zadanie rozpoczynamy po zapytaniu Ken'Udza o możliwość opuszczenia świątyni Pradawnych. Gdy otrzymujemy stosowne pozwolenie, udajemy się do Horgana, który przepuszcza nas dalej — a tym samym zadanie dobiega końca.
+
+#### Dowody
+Dostępne po pomyślnej próbie Ken'Udza. Zostajemy wysłani na powierzchnię, by sprawdzić, co planują Magowie Wody i zebrać na to dowody. Mamy na to 7 dni, choć limit nie stanowi realnego zagrożenia. Rozmawiamy ze wszystkimi Magami Wody poza Saturasem oraz odnajdujemy trzy księgi: pierwszą na podłodze w bibliotece Magów Wody, drugą w skrzyni w jaskini z nieumarłym cieniostworem (obok kamiennego kręgu z łowcą dusz), a trzecią w skrzyni pod kładką prowadzącą do kopca rudy w Nowym Obozie. Po przeczytaniu wszystkich ksiąg wracamy do Ken'Udza i przekazujemy mu raport, kończąc zadanie.
+
+>Saturasa trzeba omijać z przedmiotami potrzebnymi do questa, bo nam je zabierze!
+
+#### Pakt ze smokiem
+Podczas pobytu na wyspie Uriziela, tuż przed mostem natrafiamy na czarnego smoka. Pozwoli nam przejść dalej, jeśli odnajdziemy jego smocze jajo. Leży ono w jaskini strzeżonej przez dwóch orków-elit, niedaleko obozu Bractwa. Gdy zaniesiemy jajo smokowi, ten wręcza nam kryształ teleportacyjny, a zadanie zostaje zakończone.
