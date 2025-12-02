@@ -150,6 +150,11 @@ b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy
 
 Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję `„Misiek i piwo to stanowczo za mało!”`, możemy wytargować od niego 250 bryłek rudy.
 
+#### Łowcy Orków
+Zadanie rozpoczyna się, gdy przed obozem zaczepia nas Krwiopusz, a my prosimy o możliwość rozejrzenia się po obozie. W środku rozmawiamy z przywódcą łowców orków, Valkirem, który zleca nam ustalić, skąd napływają orkowie. Chwilę później wraz z łowcami odpieramy ich atak, po czym ponownie rozmawiamy z Valkirem.
+
+Zanim wyruszymy na poszukiwania, zagadujemy jeszcze Snowa, który oferuje wymianę: orkowa broń za rudę. Następnie kierujemy się w okolice wieży Xardasa, do jaskini strzeżonej przez orka pilnującego portalu. Rozmawiamy z nim, eliminujemy go, a po wszystkim wracamy do Valkira, kończąc zadanie.
+
 #### Ekwipunek Siekacza
 Zadanie otrzymujemy po wykonaniu [Łowca orków Traffix](#Łowca-orków-Traffix). Siekacz chce odzyskać swoje spodnie i baseball.
 
