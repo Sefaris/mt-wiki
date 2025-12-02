@@ -122,7 +122,7 @@ Rozmawiamy z Alberto, odbieramy przesyłkę z rudą i wracamy do Thangora, końc
 Chrząszczu chce, abyśmy zaopatrzyli ich w żywność. Udajemy się do Ratforda, a następnie do Grahama, któremu kradniemy mapę z kieszeni. Wracamy z mapą do Ratforda, a potem ponownie do Chrząszcza, aby zakończyć zadanie.
 
 #### Nekromanta z zewnątrz
-Zadanie informacyjne związane z Rhobertusem, które kończy się wraz z zakończeniem głównej linii fabularnej.
+Zadanie informacyjne związane z Rhobertusem, które nigdy się nie kończy, bo autor ma wizję na kolejne 4 części Gothic.
 
 #### Księgi dla Gardhara
 
