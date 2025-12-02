@@ -1,7 +1,7 @@
 # Rozdział II
 
 #### Przyjęcie do obozu koło kopalni
-Po zabiciu królowej pełzaczy wracamy do Kazzmira, a następnie udajemy się do Cor Angara, Lee lub Thorusa (w zależności od wybranej gildii). Musimy również zanieść jaja królowej do Cor Kaloma. Po wykonaniu tych kroków ponownie wracamy do Kazzmira i oficjalnie dołączamy do jego ludzi.
+Po zabiciu królowej pełzaczy wracamy do Kazzmira. Następnie zanosimy jaja królowej do Cor Kaloma, po czym udajemy się do Cor Angara, Lee lub Thorusa i Corristo (w zależności od wybranej gildii). Po wykonaniu tych kroków ponownie wracamy do Kazzmira i oficjalnie dołączamy do jego ludzi.
 
 >Gildia Kazzmira jest obowiązkowa do popchnięcia fabuły, ale nie blokuje nam zostania Magiem Ognia w Starym Obozie ani dostępu do żadnych nauczycieli w ramach wybranej wcześniej głównej gildii.
 
