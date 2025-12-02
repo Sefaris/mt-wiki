@@ -1,3 +1,0 @@
-# Rozdział VI
-
-TODO
