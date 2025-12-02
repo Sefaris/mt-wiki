@@ -97,7 +97,7 @@ Zadanie otrzymujemy od Servina, jeśli mamy przy sobie jakikolwiek skarb. Opowia
 1. Graal Życia – znajduje się na tronie, na szczycie wieży w klasztorze zmiennokształtnych.
 2. Relikwiarz Innosa – leży w kamiennym kręgu pod cytadelą, pilnowany przez wojowników cienia i łowcę dusz.
 3. Relikwie Adanosa – ukryte w cytadeli; naciskamy przycisk na murach ruin, wchodzimy do środka i zabieramy przedmiot.
-4. Misa z krwią demona – znajduje się w zatopionej wieży Xardasa (lewa wnęka). Dostęp do niej otrzymujemy dopiero podczas wykonywania zadania [Zbuntowany sługa](https://mt.mody.sefaris.eu/#/sekcje/zadania/rozdzial_v?id=zbuntowany-s%C5%82uga).
+4. Misa z krwią demona – znajduje się w zatopionej wieży Xardasa (lewa wnęka). Dostęp do niej otrzymujemy dopiero podczas wykonywania zadania [Zbuntowany sługa](sekcje/zadania/rozdzial_v?id=zbuntowany-sługa).
 5. Posążek Innosa – jest przy nieumarłym cieniostworze w jaskini pod cytadelą, w tym samym miejscu, gdzie zdobywamy Relikwiarz Innosa.
 
 Po oddaniu wszystkich artefaktów czekamy, aż Servin sam do nas zagada, kończąc zadanie.
