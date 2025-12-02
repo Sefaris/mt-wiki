@@ -283,3 +283,8 @@ Wykonujemy wątek Pradawnych, a następnie wracamy do fanatyka i przekazujemy mu
 Zadanie otrzymujemy od Xorda po rozmowie z Kolisem o jego pierścieniu. Mamy rozbić dwie grupy sekciarzy niedaleko obozu, jednak potrzebujemy wsparcia.
 
 Rozmawiamy kolejno z Tallinem, Algierem, Korą, Atariusem, a na końcu z Palermo, który jako jedyny zgadza się nam pomóc. Po zabiciu obu grup wracamy do Xorda i informujemy go o wykonaniu zadania.
+
+#### Starożytna arena
+Zadanie rozpoczyna się przy pierwszej rozmowie ze Skrzypkiem. Naszym celem jest pokonanie czterech przeciwników: Psycho, Bronna, Beowulfa oraz orka Morth’Gnar.
+
+Pierwszą walkę możemy podjąć dopiero po dołączeniu do jednej z głównych frakcji. Po zabiciu Psycho przychodzi czas na Bronna, którego możemy wyzwać na pojedynek, jeśli jesteśmy strażnikiem kopalni. Po zwycięstwie stajemy do walki z Beowulfem, który zgodzi się walczyć, kiedy zostaniemy przywódcą obozu. Po jego pokonaniu ostatnim przeciwnikiem jest ork Morth’Gnar — walka z nim jest możliwa tylko wtedy, gdy wybraliśmy swojego mistrza wśród Pradawnych (III rozdział). Po pokonaniu orka rozmawiamy ze Skrzypkiem, kończąc zadanie.
