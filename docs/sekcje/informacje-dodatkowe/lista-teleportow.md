@@ -4,7 +4,6 @@
 
 | Cel teleportacji              | Jak zdobyć?                                                                 |
 |:------------------------------|:---------------------------------------------------------------------------|
-| Runa teleportacji             | Dostajemy od Rhobertusa przy pierwszej rozmowie                             |
 | Chata alchemika               | Pierwsza rozmowa z alchemikiem                                             |
 | Przed Starym Obozem           | Podczas rozmowy z Diego, kiedy porozmawialiśmy z Thorusem o dołączeniu do Starego Obozu |
 | Obóz fanatyków                | Pierwsza rozmowa z Xordem                                                  |
@@ -20,4 +19,7 @@
 | Starożytna arena              | Pierwsza rozmowa ze Skrzypkiem                                            |
 | Górska forteca                | Kiedy oddamy akt własności Lesterowi podczas poszukiwań kamieni ogniskujących |
 | Wieża Xardasa                 | Pierwsza rozmowa z Xardasem                                               |
-| Dziwny kryształ               | Dostajemy od Gardhara w III rozdziale, kiedy Saturas zleca nam znaleźć nowy almanach |
+
+**Runę teleportacji** otrzymujemy od **Rhobertusa** podczas pierwszej rozmowy z nim.
+
+**Dziwny kryształ** dostajemy od **Gardhara** w **III rozdziale**, w momencie gdy **Saturas** zleca nam odnalezienie nowego almanachu.
