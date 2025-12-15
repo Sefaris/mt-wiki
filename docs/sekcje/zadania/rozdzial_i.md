@@ -20,7 +20,7 @@ Na koniec wracamy do Diego i informujemy go o wszystkim, finalizując zadanie.
 #### Porwanie
 Zadanie otrzymujemy na samym początku gry podczas rozmowy z Rostem. Bandyci porwali pewną kobietę, a kopacz bierze nas za jednego z nich. Powalamy go na ziemię i grozimy śmiercią. Rost ucieka, upuszczając notatkę, którą podnosimy i czytamy — dowiadujemy się, że jest od Krolla.
 
-Kroll przebywa w lochach zamku Starego Obozu, a klucz do nich znajduje się w pomieszczeniu z Bullitem. Kroll chce wydostać się z zamku, lecz potrzebuje pancerza strażnika, który możemy znaleźć w kryjówce Melkora.
+Kroll przebywa w lochach zamku Starego Obozu, a klucz do nich znajduje się w pomieszczeniu z Bullitem. Kroll chce wydostać się z zamku, lecz potrzebuje pancerz strażnika, który możemy znaleźć w kryjówce Melkora.
 
 Wyprowadzamy go z zamku; przy Thorusie nakazuje nam udać się do obozu Quentina i porozmawiać z Volarem. Kiedy mówimy, że przysyła nas Kroll, przepuszcza nas. Następnie rozmawiamy z Kirą, która ma zadanie dla Krolla.
 
