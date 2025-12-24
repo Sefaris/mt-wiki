@@ -230,10 +230,10 @@ W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozm
 Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybieramy dialog: `„W jaskini niedaleko obozu znalazłem skrzynię pełną wina!”`. Halldor pobiegnie do wskazanej jaskini. Gdy już tam dotrze, rozmawiamy z nim ponownie, po czym zabijamy go i zdajemy raport Verdonowi.
 
 #### Zaginiony miecz
-Zadanie otrzymujemy po dołączeniu do jednej z gildii. Kamylos zgubił swój miecz na terytoriach orków i zleca nam jego odnalezienie. Udajemy się do Valkira a później do Krwiopusza, który oddaje nam broń. Wracamy do Kamylosa i oddajemy mu jego zgubę.
+Zadanie otrzymujemy po dołączeniu do jednej z gildii. Wislav zgubił swój miecz na terytoriach orków i zleca nam jego odnalezienie. Udajemy się do Valkira a później do Krwiopusza, który oddaje nam broń. Wracamy do Wislava i oddajemy mu jego zgubę.
 
 #### Gdzie jest strażnik?
-Po zwróceniu miecza dla Kamylosa ma on jeszcze jedną prośbę. Jeden ze strażników udał się na zwiady w okolice obozu Sekty, lecz do tej pory nie wrócił. Znajdujemy go martwego w lesie niedaleko obozu, zagryzionego przez kretoszczury. Czytamy znalezioną przy nim notatkę i wracamy do Kamylosa po nagrodę.
+Po zwróceniu miecza dla Wislava ma on jeszcze jedną prośbę. Jeden ze strażników udał się na zwiady w okolice obozu Sekty, lecz do tej pory nie wrócił. Znajdujemy go martwego w lesie niedaleko obozu, zagryzionego przez kretoszczury. Czytamy znalezioną przy nim notatkę i wracamy do Wislava po nagrodę.
 
 #### Dziwne poszukiwania
 Po rozmowie z Gardharem otrzymujemy polecenie sprawdzenia, dokąd poleciał pocisk wystrzelony z katapulty. Udajemy się pod wieżę Xardasa, gdzie znajduje się wielka wyrwa w ziemi. Lej jest pilnowany przez dwóch orków–elit. 
