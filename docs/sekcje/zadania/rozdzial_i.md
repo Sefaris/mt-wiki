@@ -224,7 +224,7 @@ Po odnalezieniu kryjówki możemy:
 * donieść Melkorowi o ich kryjówce (gorsza nagroda).
 
 #### List Morghara
-W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: `„Myślałem, że to wychodek”`. Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](#Dziwna-jaskinia).
+W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: `„Myślałem, że to wychodek”`. Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](/sekcje/zadania/rozdzial_ii?id=dziwna-jaskinia).
 
 #### Problem Verdona
 Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybieramy dialog: `„W jaskini niedaleko obozu znalazłem skrzynię pełną wina!”`. Halldor pobiegnie do wskazanej jaskini. Gdy już tam dotrze, rozmawiamy z nim ponownie, po czym zabijamy go i zdajemy raport Verdonowi.
