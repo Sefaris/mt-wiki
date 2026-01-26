@@ -38,8 +38,7 @@ Jeśli mamy w ekwipunku krew smoka, informujemy o tym alchemika. Starzec oferuje
 W V rozdziale odnajdujemy alchemika w lochach miasta orków. Po krótkiej rozmowie zabijamy orkowego dozorcę i uwalniamy starca. W podziękowaniu wręcza nam klucz do skrzyni w opuszczonym młynie, kończąc zadanie.
 
 #### Informacje dla Kosiarza
-W obozie Ratforda i Draxa spotykamy Kosiarza. Zleca nam on zdobycie informacji na temat Mordraga, Dextera, Neka oraz Świstaka.
-Opcjonalnie możemy również pokazać mu recepturę Cor Kaloma, jeśli ją posiadamy.
+W obozie Ratforda i Draxa spotykamy Kosiarza, który zleca nam zdobycie informacji o Mordragu, Dexterze, Neku i Świstaku. Z Mordragiem wystarczy porozmawiać, ciało Neka odnajdujemy w jaskini, natomiast u Dextera i Świstaka musimy przyjąć ich zadania (opcjonalnie możemy wcześniej pokazać Kosiarzowi recepturę Cor Kaloma, zanim oddamy ją Dexterowi).
 
 > Zadanie należy wykonać w I rozdziale. Po jego ukończeniu Kosiarz przenosi się do Nowego Obozu, gdzie możemy odebrać dodatkową nagrodę.
 
