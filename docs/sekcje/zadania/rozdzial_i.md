@@ -147,7 +147,7 @@ a) Zabić Traffixa, zgodnie z poleceniem.
 
 b) Zapłacić Traffixowi 150 bryłek rudy za jego misia, dzięki czemu unikniemy walki.
 
-Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję `„Misiek i piwo to stanowczo za mało!”`, możemy wytargować od niego 250 bryłek rudy.
+Niezależnie od wybranego rozwiązania wracamy do Siekacza i zdajemy raport. Podczas rozmowy, wybierając opcję **„Misiek i piwo to stanowczo za mało!”**, możemy wytargować od niego 250 bryłek rudy.
 
 #### Łowcy Orków
 Zadanie rozpoczyna się, gdy przed obozem zaczepia nas Krwiopusz, a my prosimy o możliwość rozejrzenia się po obozie. W środku rozmawiamy z przywódcą łowców orków, Valkirem, który zleca nam ustalić, skąd napływają orkowie. Chwilę później wraz z łowcami odpieramy ich atak, po czym ponownie rozmawiamy z Valkirem.
@@ -223,10 +223,10 @@ Po odnalezieniu kryjówki możemy:
 * donieść Melkorowi o ich kryjówce (gorsza nagroda).
 
 #### List Morghara
-W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: `„Myślałem, że to wychodek”`. Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](/sekcje/zadania/rozdzial_ii?id=dziwna-jaskinia).
+W chacie Morghara znajdujemy list adresowany do niego. Po jego przeczytaniu rozmawiamy z Morgharem i wybieramy opcję: **„Myślałem, że to wychodek”**. Następnie przynosimy mu 2 piwa. Kolejnym krokiem jest spotkanie ze złodziejem, który okazuje się martwy. Dodatkowo Morghar pokazuje nam jaskinię Melkora i w ten sposób rozpoczyna się zadanie [Dziwna Jaskinia](/sekcje/zadania/rozdzial_ii?id=dziwna-jaskinia).
 
 #### Problem Verdona
-Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybieramy dialog: `„W jaskini niedaleko obozu znalazłem skrzynię pełną wina!”`. Halldor pobiegnie do wskazanej jaskini. Gdy już tam dotrze, rozmawiamy z nim ponownie, po czym zabijamy go i zdajemy raport Verdonowi.
+Verdon zleca nam zabicie strażnika Halldora. Aby wyciągnąć go z obozu, wybieramy dialog: **„W jaskini niedaleko obozu znalazłem skrzynię pełną wina!”**. Halldor pobiegnie do wskazanej jaskini. Gdy już tam dotrze, rozmawiamy z nim ponownie, po czym zabijamy go i zdajemy raport Verdonowi.
 
 #### Zaginiony miecz
 Zadanie otrzymujemy po dołączeniu do jednej z gildii. Wislav zgubił swój miecz na terytoriach orków i zleca nam jego odnalezienie. Udajemy się do Valkira a później do Krwiopusza, który oddaje nam broń. Wracamy do Wislava i oddajemy mu jego zgubę.
@@ -239,7 +239,7 @@ Po rozmowie z Gardharem otrzymujemy polecenie sprawdzenia, dokąd poleciał poci
 
 W środku zabijamy dwa pajęczaki i podnosimy kryształ, który leży na samym dnie. Wracamy do Gardhara i oddajemy mu znalezisko, kończąc pierwszy etap.
 
-`W III rozdziale`, podczas poszukiwania kamieni ogniskujących, Gardhar sam nas zaczepia i wręcza nam kryształ teleportacyjny. Użycie go przenosi nas przed wrota do jaskini Pradawnych.
+W **III rozdziale**, podczas poszukiwania kamieni ogniskujących, Gardhar sam nas zaczepia i wręcza nam kryształ teleportacyjny. Użycie go przenosi nas przed wrota do jaskini Pradawnych.
 
 Po przejściu całego wątku Pradawnych wracamy do Gardhara i zdajemy raport, co zamyka zadanie.
 
