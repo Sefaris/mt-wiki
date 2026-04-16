@@ -29,9 +29,9 @@ Trzeciego kopacza, Martineza, znajdujemy w zawalonej wieży przy południowej br
 
 Ostatni zbieg, Popo, uciekł ze Starej Kopalni i zatrzymał się u alchemika. Po rozmowie z nim wracamy do Kruka i informujemy o odnalezieniu wszystkich uciekinierów. Kruk wysyła nas następnie do Bartholo, aby dowiedzieć się czegoś o losach magnata Sairo, odpowiedzialnego za koordynację między Starym Obozem a obozem przed kopalnią.
 
-W obozie przed kopalnią pytamy Melkora o magnata. Ten jednak zleca nam odnalezienie kopacza Nesta, który uciekł z jego rzeczami. Nest leży martwy w jaskini niedaleko obozu, zabity przez zębacze. Czytamy znalezione przy nim zapiski Melkora i wracamy z nimi do Bartholo.
+W obozie przed kopalnią rozmawiamy z Wyzyskiem i następnie pytamy Melkora o magnata. Ten jednak zleca nam odnalezienie kopacza Nesta, który uciekł z jego rzeczami. Nest leży martwy w jaskini niedaleko obozu, zabity przez zębacze. Czytamy znalezione przy nim zapiski Melkora i wracamy z nimi do Bartholo.
 
->Uwaga: nie wracamy do Melkora — zabierze nam notatki!
+>Uwaga: nie wracamy do Melkora - zabierze nam notatki!
 
 Zdając raport Bartholo i kończąc jego polecenie, otrzymujemy zadanie [Obóz Strażników](Obóz-Strażników). Po jego wykonaniu zadanie zostaje ukończone.
 
