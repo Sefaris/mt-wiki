@@ -55,7 +55,7 @@ Na miejscu wita nas smok, którym jest Pradawny Algirion. Idziemy do Ken’Udza 
 
 Balaiareth zleca nam zdobycie krwi Ognionoścy. Eli’Ne prosi o trzy rośliny: Ciernistą Paproć, Nocny Aloes i Mroczny Szczaw. Za wykonanie zadania możemy wybrać nagrodę – pierścień lub noc z Eli’Ne. Po zdobyciu fałszywej krwi u Flad’Naga oddajemy ją Balaiarethowi, który znika i daje klucz.
 
-Wracamy do Ken’Udza, który zleca nam wybór mistrza – Sheer’Ghara dla wojowników lub Algiriona dla magów. Po wyborze mistrza odpowiadamy na jego zagadki: `Cień, Śmierć, Mrok` a następnie zdobywamy Kryształ Zwycięzców na Starożytnej Arenie i oddajemy go mistrzowi.
+Wracamy do Ken’Udza, który zleca nam wybór mistrza – Sheer’Ghara dla wojowników lub Algiriona dla magów. Po wyborze mistrza odpowiadamy na jego zagadki: **Cień, Śmierć, Mrok** a następnie zdobywamy Kryształ Zwycięzców na Starożytnej Arenie i oddajemy go mistrzowi.
 
 Rozpoczyna się zadanie [Dowody](#Dowody). Aby wydostać się od Pradawnych, używamy prawego przycisku w komnacie, w której rozmawialiśmy ze smokiem. Po wykonaniu [Starożytnej Areny](sekcje/zadania/rozdzial_i?id=starożytna-arena) i [Dowodów](#Dowody) wracamy do Ken’Udza. Następnie sługi Beliara atakują świątynię – eliminujemy wszystkich wrogów i rozmawiamy z Algirionem i Sheer’Gharem.
 
