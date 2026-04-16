@@ -8,7 +8,7 @@ Po zdobyciu wszystkich materiałów oddajemy je Argornowi, a po chwili otrzymuje
 > Wymagania do ulepszenia: minimum 250 zręczności, więcej zręczności niż siły oraz znajomość dialogu o ostrzeniu broni.
 
 #### Sprowadzić Yrpena
-Valkir wysyła Yrpena do obozu Sekty. Udajemy się w okolice ubijaczy ziela i dwukrotnie rozmawiamy z Yrpenem. Wybieramy opcję `„Obóz cię potrzebuje!”`, po czym eskortujemy go wraz ze strażnikami z powrotem do Valkira. Po rozmowie z Valkirem zadanie zostaje ukończone.
+Valkir wysyła Yrpena do obozu Sekty. Udajemy się w okolice ubijaczy ziela i dwukrotnie rozmawiamy z Yrpenem. Wybieramy opcję **„Obóz cię potrzebuje!”**, po czym eskortujemy go wraz ze strażnikami z powrotem do Valkira. Po rozmowie z Valkirem zadanie zostaje ukończone.
 
 #### Zbuntowany sługa
 Po rozmowie z Xardasem zostajemy przeteleportowani do Pradawnych. Rozmawiamy z nimi i odbieramy bonusy, następnie trafiamy do Dbruce’a, który zleca nam zabicie Smoka Ożywieńca w Zatopionej Wieży. Pokonujemy bestię i wracamy do zleceniodawcy, zadanie zostaje zakończone.
