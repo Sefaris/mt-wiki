@@ -21,7 +21,7 @@ Kazzmir zleca nam pozbycie się dwóch wielkich gadów. Pierwszego znajdziemy w 
 Wyzysk wspomina nam, że Kruk ma dla nas zadanie. Rozmawiamy z nim, wykonujemy [Zaginieni kopacze](#Zaginieni-kopacze), a następnie wracamy do Kruka.
 
 #### Zaginieni kopacze
-Kiedy jesteśmy Strażnikiem Starego Obozu lub Strażnikiem Kopalni, Kruk zleca nam odnalezienie czterech zbiegłych kopaczy.
+<ins>Dostępne po wykonaniu [Atak na bandytów](#Atak-na-bandytow) i [Problem z gadami](#Problem-z-gadami)</ins>
 
 Pierwszego z nich, Sanchesa, znajdujemy przy ognisku przy północnej bramie Starego Obozu. Informuje nas on o kopaczu Nixie, który poszedł do młynu po jedzenie. Udajemy się więc do młynu przy rzece, gdzie okazuje się, że Nix został zjedzony przez aligatory. Zabieramy jego broń i ruszamy dalej.
 
