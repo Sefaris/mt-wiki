@@ -17,7 +17,7 @@ W obozie Ratforda i Draxa spotykamy Unan i Punka. Chcą, żebyśmy im towarzyszy
 Po kilku dniach od polowania wracamy do Punka, który mówi, że Unan gdzieś zniknęła. Rozmawiamy kolejno z Aidanem, Cavalornem i Kyro, u którego znajduje się Unan.
 Wraz z nią idziemy na polowanie na zębacza. Jeśli jej pomożemy lub zbyt się zbliżymy do zębacza, Unan będzie niezadowolona, co skutkuje zapłaceniem jej 1000 bryłek za trofeum.
 
-Następnie rozmawiamy z Punkem w obozie o odnalezieniu Unan i wyruszamy z nim i Unan na polowanie na młodego czarnego trolla. Na miejscu sytuacja się komplikuje – walczymy z samicą czarnego trolla i jej młodymi.
+Następnie rozmawiamy z Punkem w obozie o odnalezieniu Unan i wyruszamy z nim i Unan na polowanie na młodego czarnego trolla (dopiero od 4 rozdziału). Na miejscu sytuacja się komplikuje – walczymy z samicą czarnego trolla i jej młodymi.
 
 Po walce i kilku dniach ponownie spotykamy się z małżeństwem w obozie. Punek wręcza nam trofeum i zaczyna się rozgadywać – wypytujemy Unan o ich historię. Zadanie zostaje zakończone.
 
