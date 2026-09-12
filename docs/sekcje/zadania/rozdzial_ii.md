@@ -1,27 +1,55 @@
-# Rozdział II
+---
+title: Rozdział II
+description: "Drugi rozdział solucji do Mrocznych Tajemnic 2.5. Obóz przed kopalnią, zaginieni kopacze, przemyt rudy i dziwna jaskinia."
+slug: /solucja/rozdzial-ii/
+---
 
-#### Przyjęcie do obozu koło kopalni
+## Przyjęcie do obozu koło kopalni {#przyjecie-do-obozu-kolo-kopalni}
 Po zabiciu królowej pełzaczy wracamy do Kazzmira. Następnie zanosimy jaja królowej do Cor Kaloma, po czym udajemy się do Cor Angara, Lee lub Thorusa i Corristo (w zależności od wybranej gildii). Po wykonaniu tych kroków ponownie wracamy do Kazzmira i oficjalnie dołączamy do jego ludzi.
 
 >Gildia Kazzmira jest obowiązkowa do popchnięcia fabuły, ale nie blokuje nam zostania Magiem Ognia w Starym Obozie ani dostępu do żadnych nauczycieli w ramach wybranej wcześniej głównej gildii.
 
-#### Atak na bandytów
-<ins>Zadanie dostępne po dołączeniu do obozu przed kopalnią.</ins>
+## Atak na bandytów {#atak-na-bandytow}
+
+:::info Warunek rozpoczęcia
+
+Zadanie dostępne po dołączeniu do obozu przed kopalnią.
+
+:::
+
 
 Kazzmir zleca nam pomoc Wyzyskowi w uporaniu się z bandytami atakującymi konwoje z rudą. Udajemy się na miejsce zasadzki, eliminujemy wszystkich bandytów, a następnie wracamy do Kazzmira, aby zdać raport i zakończyć zadanie.
 
-#### Problem z gadami
-<ins>Zadanie dostępne po dołączeniu do obozu przed kopalnią.</ins>
+## Problem z gadami {#problem-z-gadami}
+
+:::info Warunek rozpoczęcia
+
+Zadanie dostępne po dołączeniu do obozu przed kopalnią.
+
+:::
+
 
 Kazzmir zleca nam pozbycie się dwóch wielkich gadów. Pierwszego znajdziemy w jaskini niedaleko Komara, natomiast drugi przebywa na rozwidleniu rzeki, w pobliżu obozu Draxa i Ratforda. Po zabiciu obu stworzeń wracamy do Kazzmira, aby zakończyć zadanie.
 
-#### Zadanie od Kruka
-<ins>Dostępne po wykonaniu [Atak na bandytów](#Atak-na-bandytow) i [Problem z gadami](#Problem-z-gadami)</ins>
+## Zadanie od Kruka {#zadanie-od-kruka}
 
-Wyzysk wspomina nam, że Kruk ma dla nas zadanie. Rozmawiamy z nim, wykonujemy [Zaginieni kopacze](#Zaginieni-kopacze), a następnie wracamy do Kruka.
+:::info Warunek rozpoczęcia
 
-#### Zaginieni kopacze
-<ins>Dostępne po wykonaniu [Atak na bandytów](#Atak-na-bandytow) i [Problem z gadami](#Problem-z-gadami)</ins>
+Dostępne po wykonaniu [Atak na bandytów](#atak-na-bandytow) i [Problem z gadami](#problem-z-gadami)
+
+:::
+
+
+Wyzysk wspomina nam, że Kruk ma dla nas zadanie. Rozmawiamy z nim, wykonujemy [Zaginieni kopacze](#zaginieni-kopacze), a następnie wracamy do Kruka.
+
+## Zaginieni kopacze {#zaginieni-kopacze}
+
+:::info Warunek rozpoczęcia
+
+Dostępne po wykonaniu [Atak na bandytów](#atak-na-bandytow) i [Problem z gadami](#problem-z-gadami)
+
+:::
+
 
 Pierwszego z nich, Sanchesa, znajdujemy przy ognisku przy północnej bramie Starego Obozu. Informuje nas on o kopaczu Nixie, który poszedł do młynu po jedzenie. Udajemy się więc do młynu przy rzece, gdzie okazuje się, że Nix został zjedzony przez aligatory. Zabieramy jego broń i ruszamy dalej.
 
@@ -33,37 +61,49 @@ W obozie przed kopalnią rozmawiamy z Wyzyskiem i następnie pytamy Melkora o ma
 
 >Uwaga: nie wracamy do Melkora - zabierze nam notatki!
 
-Zdając raport Bartholo i kończąc jego polecenie, otrzymujemy zadanie [Obóz Strażników](Obóz-Strażników). Po jego wykonaniu zadanie zostaje ukończone.
+Zdając raport Bartholo i kończąc jego polecenie, otrzymujemy zadanie [Obóz Strażników](#oboz-straznikow). Po jego wykonaniu zadanie zostaje ukończone.
 
-#### Przemyt rudy
+## Przemyt rudy {#przemyt-rudy}
 
-<ins>Zadanie dostajemy po wykonaniu [Dostawcy rudy](#Dostawca-rudy) lub po [Zaginieni kopacze](#Zaginieni-kopacze).</ins>
+
+:::info Warunek rozpoczęcia
+
+Zadanie dostajemy po wykonaniu [Dostawcy rudy](./rozdzial_i.md#dostawca-rudy) lub po [Zaginieni kopacze](#zaginieni-kopacze).
+
+:::
+
 
 Kruk dowiedział się o naszym lewym układzie z kupcem i każe nam to wyjaśnić. Rozmawiamy z Thangorem, a potem z Melkorem, który zabiera nam całą rudę w zamian za darowanie życia. Wracamy do Kruka, dowiadujemy się kto stoi za przemytem i mamy zabić Melkora. Eliminujemy go, meldujemy Krukowi o śmierci magnata, po czym wracamy do Thangora, kończąc zadanie.
 
-####  Obóz Strażników
+## Obóz Strażników {#oboz-straznikow}
 Zadanie otrzymujemy po tym, kiedy powiemy Bartholo, kto stoi za zabójstwem Sairo.
 Rozmawiamy z Wyzyskiem, który informuje nas, że Melkor zebrał strażników, zaatakował Nowy Obóz, a Kazzmira uwięził w klatce. Ruszamy w pogoń za nim. Na miejscu okazuje się, że przeżył tylko Melkor.
 
 Po wymianie zdań udajemy się na plac przed Starą Kopalnią i zabijamy Melkora w walce. Następnie idziemy uwolnić Kazzmira, który prosi nas o odzyskanie jego miecza, który miał przy sobie Melkor. Oddajemy mu miecz i wracamy do Bartholo, informując o śmierci Melkora.
 W nagrodę otrzymujemy pełnomocnictwo upoważniające do zostania przywódcą obozu przed kopalnią. Następnie wracamy do Kazzmira i tym samym zostajemy szefem obozu, kończąc zadanie.
 
-#### Monopol na bimber
-<ins>Zadanie dostępne po dołączeniu do obozu przed kopalnią.</ins>
+## Monopol na bimber {#monopol-na-bimber}
+
+:::info Warunek rozpoczęcia
+
+Zadanie dostępne po dołączeniu do obozu przed kopalnią.
+
+:::
+
 
 Siekacz prosi nas, abyśmy zrobili porządek z bimbrownikami z Nowego Obozu. Udajemy się do jaskini nad rzeką, gdzie przebywa Jacko wraz ze swoimi kompanami. Zabijamy całą grupę, a następnie wracamy do Siekacza, aby zdać raport i zakończyć zadanie.
 
-#### Dziwna jaskinia
+## Dziwna jaskinia {#dziwna-jaskinia}
 Po dostaniu się do jaskini Melkora przekazujemy informacje Morgharowi. Zadanie ukończone.
 
-#### Nowi ludzie do obozu
-Wyzysk potrzebuje nowych ludzi do zarządzania zaopatrzeniem obozu. Rozmawiamy z Diego o nowych skazańcach, jednak Diego już się tym nie zajmuje, więc sami udajemy się na Plac Wymian. Przy Opuszczonej Kopalni spotykamy Letora i Vezoka, którzy zgadzają się dołączyć do obozu po wykonaniu zadania [Gdzie jest Rabod?](#Gdzie-jest-Rabod?). Po przekazaniu informacji Wyzyskowi udajemy się porozmawiać z Corinem – tym samym zadanie zostaje zakończone.
+## Nowi ludzie do obozu {#nowi-ludzie-do-obozu}
+Wyzysk potrzebuje nowych ludzi do zarządzania zaopatrzeniem obozu. Rozmawiamy z Diego o nowych skazańcach, jednak Diego już się tym nie zajmuje, więc sami udajemy się na Plac Wymian. Przy Opuszczonej Kopalni spotykamy Letora i Vezoka, którzy zgadzają się dołączyć do obozu po wykonaniu zadania [Gdzie jest Rabod?](#gdzie-jest-rabod). Po przekazaniu informacji Wyzyskowi udajemy się porozmawiać z Corinem – tym samym zadanie zostaje zakończone.
 
-#### Gdzie jest Rabod?
+## Gdzie jest Rabod? {#gdzie-jest-rabod}
 Na Przełęczy, spotykamy Vezoka i Letora, którzy proszą nas o odnalezienie Raboda. Udajemy się w stronę Starego Obozu. Raboda odnajdziemy przy drzewie, obok dwóch Ścierwojadów. Po dokonaniu odkrycia wracamy do Vezoka i Letora, aby przekazać im wiadomość i zakończyć zadanie.
 
-#### Hej, szmaciarzu!
-Podczas wykonywania zadania [Nowi ludzie do obozu](#Nowi-ludzie-do-obozu), jeśli wcześniej zaczepił nas Ben, możemy teraz się na nim odegrać. Idziemy do niego i zlecamy mu patrol terenów orków. Ben wściekle nas atakuję – pokonujemy go, po czym rozmawiamy z nim ponownie. Ostatecznie zgadza się wykonywać patrole, a zadanie zostaje zakończone.
+## Hej, szmaciarzu! {#hej-szmaciarzu}
+Podczas wykonywania zadania [Nowi ludzie do obozu](#nowi-ludzie-do-obozu), jeśli wcześniej zaczepił nas Ben, możemy teraz się na nim odegrać. Idziemy do niego i zlecamy mu patrol terenów orków. Ben wściekle nas atakuję – pokonujemy go, po czym rozmawiamy z nim ponownie. Ostatecznie zgadza się wykonywać patrole, a zadanie zostaje zakończone.
 
-#### Tona złota 
+## Tona złota {#tona-zlota}
 Malt chce, abyśmy zdobyli dla niego 10 tysięcy złotych monet z wieży zamku w Starym Obozie. Po zebraniu wymaganej kwoty wracamy do Malta, aby zakończyć zadanie.

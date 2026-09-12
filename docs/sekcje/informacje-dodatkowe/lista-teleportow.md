@@ -1,6 +1,12 @@
-# Teleporty
+---
+title: Teleporty
+description: "Wszystkie teleporty w Mrocznych Tajemnicach 2.5: miejsca docelowe, sposób ich zdobycia, runa teleportacji i dziwny kryształ."
+slug: /teleporty/
+---
 
 > Kompletna lista wszystkich teleportów dostępnych w MT 2.5
+
+## Lista teleportów {#lista-teleportow}
 
 | Cel teleportacji              | Jak zdobyć?                                                                 |
 |:------------------------------|:---------------------------------------------------------------------------|
@@ -19,6 +25,8 @@
 | Starożytna arena              | Pierwsza rozmowa ze Skrzypkiem                                            |
 | Górska forteca                | Kiedy oddamy akt własności Lesterowi podczas poszukiwań kamieni ogniskujących |
 | Wieża Xardasa                 | Pierwsza rozmowa z Xardasem                                               |
+
+## Runa i dziwny kryształ {#runa-i-dziwny-krysztal}
 
 **Runę teleportacji** otrzymujemy od **Rhobertusa** podczas pierwszej rozmowy z nim.
 

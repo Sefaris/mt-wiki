@@ -1,27 +1,31 @@
-# Rozdział V
+---
+title: Rozdział V
+description: "Piąty rozdział solucji do Mrocznych Tajemnic 2.5. Ulepszenie zbroi, zbuntowany sługa i przygotowania do opuszczenia Kolonii."
+slug: /solucja/rozdzial-v/
+---
 
-#### Ulepszenie zbroi
+## Ulepszenie zbroi {#ulepszenie-zbroi}
 Zadanie otrzymujemy od Argorna, który proponuje wzmocnienie naszego pancerza z płytek pełzaczy. Do wykonania zlecenia potrzebujemy 10 płytek oraz 12 000 bryłek rudy.
 
 Po zdobyciu wszystkich materiałów oddajemy je Argornowi, a po chwili otrzymujemy wzmocnioną wersję pancerza z płytek pełzaczy.
 
 > Wymagania do ulepszenia: minimum 250 zręczności, więcej zręczności niż siły oraz znajomość dialogu o ostrzeniu broni.
 
-#### Sprowadzić Yrpena
+## Sprowadzić Yrpena {#sprowadzic-yrpena}
 Valkir wysyła Yrpena do obozu Sekty. Udajemy się w okolice ubijaczy ziela i dwukrotnie rozmawiamy z Yrpenem. Wybieramy opcję **„Obóz cię potrzebuje!”**, po czym eskortujemy go wraz ze strażnikami z powrotem do Valkira. Po rozmowie z Valkirem zadanie zostaje ukończone.
 
-#### Zbuntowany sługa
+## Zbuntowany sługa {#zbuntowany-sluga}
 Po rozmowie z Xardasem zostajemy przeteleportowani do Pradawnych. Rozmawiamy z nimi i odbieramy bonusy, następnie trafiamy do Dbruce’a, który zleca nam zabicie Smoka Ożywieńca w Zatopionej Wieży. Pokonujemy bestię i wracamy do zleceniodawcy, zadanie zostaje zakończone.
 
-#### Przygotowania do opuszczenia Kolonii
+## Przygotowania do opuszczenia Kolonii {#przygotowania-do-opuszczenia-kolonii}
 Po zebraniu ochrzanu od Gardhara udajemy się do Wyzyska, a następnie kolejno do Skorpiona, Cavalorna, Alchemika, Kazzmira, Lee, Thangora, Skrzypka i Cor Angara.
 Następnie ponownie idziemy do Kazzmira, który teraz przebywa w obozie przed kopalnią. Odbieramy od Gardhara runę i teleportujemy się do Starego Obozu.
-W Starym Obozie wykonujemy zadanie [Porządki w Starym Obozie](#Porządki-w-Starym-Obozie), a po jego zakończeniu wracamy do Kazzmira, aby zakończyć całą sekwencję.
+W Starym Obozie wykonujemy zadanie [Porządki w Starym Obozie](#porzadki-w-starym-obozie), a po jego zakończeniu wracamy do Kazzmira, aby zakończyć całą sekwencję.
 
-#### Zapasy dla alchemika
+## Zapasy dla alchemika {#zapasy-dla-alchemika}
 Alchemik potrzebuje 20 kolb alchemicznych, które możemy zdobyć u takich osób jak Wilk, Sharky lub Servin. Po zorganizowaniu zapasów wracamy do zleceniodawcy, aby zakończyć zadanie.
 
-#### Porządki w Starym Obozie
+## Porządki w Starym Obozie {#porzadki-w-starym-obozie}
 Po teleportacji do Starego Obozu na naszej drodze staje Drak, którego zabijamy. Następnie pokonujemy Bartholo i rozmawiamy z Blizną.
 
 Wchodzimy do siedziby magnatów, gdzie zabijamy Kruka i Arto, a potem Gomeza. Wracamy do Blizny, a następnie kolejno rozmawiamy ze Scattym i Thorusem.
