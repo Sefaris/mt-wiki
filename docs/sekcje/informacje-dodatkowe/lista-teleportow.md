@@ -4,7 +4,7 @@ description: "Wszystkie teleporty w Mrocznych Tajemnicach 2.5: miejsca docelowe,
 slug: /teleporty/
 ---
 
-> Kompletna lista wszystkich teleportów dostępnych w MT 2.5
+Kompletna lista wszystkich teleportów dostępnych w MT 2.5
 
 ## Lista teleportów {#lista-teleportow}
 

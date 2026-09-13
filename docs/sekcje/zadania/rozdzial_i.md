@@ -44,7 +44,11 @@ W V rozdziale odnajdujemy alchemika w lochach miasta orków. Po krótkiej rozmow
 ## Informacje dla Kosiarza {#informacje-dla-kosiarza}
 W obozie Ratforda i Draxa spotykamy Kosiarza, który zleca nam zdobycie informacji o Mordragu, Dexterze, Neku i Świstaku. Z Mordragiem wystarczy porozmawiać, ciało Neka odnajdujemy w jaskini, natomiast u Dextera i Świstaka musimy przyjąć ich zadania (opcjonalnie możemy wcześniej pokazać Kosiarzowi recepturę Cor Kaloma, zanim oddamy ją Dexterowi).
 
-> Zadanie należy wykonać w I rozdziale. Po jego ukończeniu Kosiarz przenosi się do Nowego Obozu, gdzie możemy odebrać dodatkową nagrodę.
+:::warning Uwaga
+
+Zadanie należy wykonać w I rozdziale. Po jego ukończeniu Kosiarz przenosi się do Nowego Obozu, gdzie możemy odebrać dodatkową nagrodę.
+
+:::
 
 ## Wino dla Halldora {#wino-dla-halldora}
 Halldor prosi nas o przyniesienie mu wina. Po dostarczeniu wina zadanie zostaje ukończone.
@@ -89,7 +93,11 @@ Po odnalezieniu łuku wracamy do Kyro i przekazujemy mu znalezisko, kończąc za
 W Wieży Mgieł (wchodząc od górnych drzwi) spotykamy Ducha Magnata, którego musimy pokonać.
 Po walce zabieramy z jego ciała Pierścień Kortha i oddajemy go samemu Korthowi, kończąc zadanie.
 
-> Dla ułatwienia starcia możemy wcześniej udać się na teren obok Zatopionej Wieży Xardasa i zabrać z piedestału miecz Święte Wygnanie, który z łatwością niszczy nieumarłych, znacząco upraszczając walkę z Duchem Magnata.
+:::tip Wskazówka
+
+Dla ułatwienia starcia możemy wcześniej udać się na teren obok Zatopionej Wieży Xardasa i zabrać z piedestału miecz Święte Wygnanie, który z łatwością niszczy nieumarłych, znacząco upraszczając walkę z Duchem Magnata.
+
+:::
 
 ## Pomóc Servinowi {#pomoc-servinowi}
 Servin prosi nas o dostarczenie: 40 kawałków surowego mięsa, 20 skór wilków i 30 butelek ryżówki. Po dostarczeniu wszystkich wymaganych produktów zadanie zostaje ukończone.
@@ -297,4 +305,8 @@ Zadanie rozpoczyna się przy pierwszej rozmowie ze Skrzypkiem. Naszym celem jest
 
 Pierwszą walkę możemy podjąć dopiero po dołączeniu do jednej z głównych frakcji. Po zabiciu Psycho przychodzi czas na Bronna, którego możemy wyzwać na pojedynek, jeśli jesteśmy strażnikiem kopalni. Po zwycięstwie stajemy do walki z Beowulfem, który zgodzi się walczyć, kiedy zostaniemy przywódcą obozu. Po jego pokonaniu ostatnim przeciwnikiem jest ork Morth’Gnar — walka z nim jest możliwa tylko wtedy, gdy wybraliśmy swojego mistrza wśród Pradawnych (III rozdział). Po pokonaniu orka rozmawiamy ze Skrzypkiem, kończąc zadanie.
 
->Kryształ Zwycięzców możemy użyć od razu dla bonusów, a jednocześnie oddać swojemu mistrzowi Pradawnych.
+:::tip Wskazówka
+
+Kryształ Zwycięzców możemy użyć od razu dla bonusów, a jednocześnie oddać swojemu mistrzowi Pradawnych.
+
+:::

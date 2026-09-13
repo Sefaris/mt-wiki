@@ -7,7 +7,11 @@ slug: /solucja/rozdzial-ii/
 ## Przyjęcie do obozu koło kopalni {#przyjecie-do-obozu-kolo-kopalni}
 Po zabiciu królowej pełzaczy wracamy do Kazzmira. Następnie zanosimy jaja królowej do Cor Kaloma, po czym udajemy się do Cor Angara, Lee lub Thorusa i Corristo (w zależności od wybranej gildii). Po wykonaniu tych kroków ponownie wracamy do Kazzmira i oficjalnie dołączamy do jego ludzi.
 
->Gildia Kazzmira jest obowiązkowa do popchnięcia fabuły, ale nie blokuje nam zostania Magiem Ognia w Starym Obozie ani dostępu do żadnych nauczycieli w ramach wybranej wcześniej głównej gildii.
+:::info Informacja
+
+Gildia Kazzmira jest obowiązkowa do popchnięcia fabuły, ale nie blokuje nam zostania Magiem Ognia w Starym Obozie ani dostępu do żadnych nauczycieli w ramach wybranej wcześniej głównej gildii.
+
+:::
 
 ## Atak na bandytów {#atak-na-bandytow}
 
@@ -59,7 +63,11 @@ Ostatni zbieg, Popo, uciekł ze Starej Kopalni i zatrzymał się u alchemika. Po
 
 W obozie przed kopalnią rozmawiamy z Wyzyskiem i następnie pytamy Melkora o magnata. Ten jednak zleca nam odnalezienie kopacza Nesta, który uciekł z jego rzeczami. Nest leży martwy w jaskini niedaleko obozu, zabity przez zębacze. Czytamy znalezione przy nim zapiski Melkora i wracamy z nimi do Bartholo.
 
->Uwaga: nie wracamy do Melkora - zabierze nam notatki!
+:::warning Uwaga
+
+nie wracamy do Melkora - zabierze nam notatki!
+
+:::
 
 Zdając raport Bartholo i kończąc jego polecenie, otrzymujemy zadanie [Obóz Strażników](#oboz-straznikow). Po jego wykonaniu zadanie zostaje ukończone.
 

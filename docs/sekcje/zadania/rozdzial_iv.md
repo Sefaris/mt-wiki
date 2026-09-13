@@ -17,4 +17,8 @@ Po odparciu kilku fal orków portal zostaje ostatecznie zamknięty. Wracamy do V
 ## Spotkanie {#spotkanie}
 Po odkryciu, że magowie ognia nie żyją, Diego każe nam powiadomić Lestera i Gorna o spotkaniu. Lestera znajdziemy w górskiej fortecy, a Gorna u Saturasa lub na drodze do Wolnej Kopalni. Wracamy do Diego, który wysyła nas do Miltena. Po rozmowie z Miltenem wracamy ponownie do Diego i razem z nim udajemy się na spotkanie.
 
->Quest należy wykonać w IV rozdziale.
+:::warning Uwaga
+
+Quest należy wykonać w IV rozdziale.
+
+:::
